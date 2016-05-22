@@ -5,6 +5,7 @@ Curated lists for programming, books, movies, music, games, etc
     * [Programming](#programming)
     * [Books](#books)
     * [Movies and TV shows](#movies-and-tv-shows)
+* [License](#license)
 
 <br><br>
 # <a name="programming"></a>Programming
@@ -39,3 +40,8 @@ Curated lists for programming, books, movies, music, games, etc
 * [greatestmovies - lists by Robert Frost](https://greatestmovies.quora.com/)
 * [Anime recommendation](https://www.reddit.com/r/anime/comments/48omc3/announcing_ranimes_ultimate_recommendation/)
 * [Must watch TV series](https://www.quora.com/What-are-the-top-20-must-watch-series)
+
+<br><br>
+# <a name="license"></a>License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
