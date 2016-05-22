@@ -10,6 +10,7 @@ Curated lists for programming, books, movies, music, games, etc
 <br><br>
 # <a name="programming"></a>Programming
 
+* [Android](./programming/Android.md)
 * [Linux](https://github.com/learnbyexample/scripting_course/blob/master/Linux_curated_resources.md)
 * [Perl](https://github.com/learnbyexample/scripting_course/blob/master/Perl_curated_resources.md)
 * [Python](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
