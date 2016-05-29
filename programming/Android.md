@@ -56,6 +56,7 @@
 * [androiddev - wiki](https://www.reddit.com/r/androiddev/wiki/index)
 * [awesome-android](https://github.com/JStumpp/awesome-android)
 * [Collection of links for every Android developer](https://github.com/anirudh24seven/android-dev-readme)
+* [awesome-mobile-dev](https://github.com/MakinGiants/awesome-mobile-dev)
 
 <br>
 # <a name="forums"></a>Forums
