@@ -26,6 +26,7 @@ Curated lists for programming, books, movies, music, games, etc
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) 
 * [Open source society](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science
 * [class-central](https://www.class-central.com/) - make informed online learning decisions
+   * [MOOC courses that provide free certificate of accomplishments upon completion](https://www.reddit.com/r/learnprogramming/comments/4mytkl/list_of_20_free_online_programmingcs_courses/)
 
 <br>
 ### <a name="books"></a>Books
