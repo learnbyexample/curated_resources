@@ -13,6 +13,7 @@
 # <a name="learning-resources"></a>Learning Resources
 
 * [Google - training](https://developer.android.com/training/index.html)
+   * [Android Skilling Program for India](http://googleindia.blogspot.in/2016/07/introducing-android-skilling-program.html)
 * [CodePath Android Cliffnotes](http://guides.codepath.com/android)
 
 ### <a name="online-courses"></a>Online Courses
