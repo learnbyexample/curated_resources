@@ -21,6 +21,7 @@ Curated lists for programming, books, movies, music, games, etc
 # <a name="books-movies-tvshows"></a>Books, Movies and TV shows
 
 * [Fictional books](./books_movies_tvshows/books.md)
+* [Anime and Manga](./books_movies_tvshows/Anime_and_Manga.md)
 
 <br><br><br><br>
 # <a name="meta"></a>Meta
