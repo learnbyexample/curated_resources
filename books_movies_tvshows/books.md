@@ -14,6 +14,8 @@ Curated list of fictional books I've read so far...
 
 > So many books, so little time...
 
+Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=read)
+
 <br>
 # <a name="fantasy"></a>Fantasy
 
