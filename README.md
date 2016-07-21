@@ -3,7 +3,7 @@ Curated lists for programming, books, movies, music, games, etc
 * [Programming](#programming)
 * [Books, Movies and TV shows](#books-movies-tvshows)
 * [Meta](#meta)
-    * [Programming Lists](#programming)
+    * [Programming Lists](#programming-lists)
     * [Books](#books)
     * [Movies and TV shows](#movies-and-tv-shows)
 * [License](#license)
