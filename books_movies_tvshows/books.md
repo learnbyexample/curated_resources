@@ -23,7 +23,9 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Cosmere
     * [Reading guide](http://botanicaxu.tumblr.com/post/144498644804/botanicaxu-edit-cosmere-books-reading-order)
 * Lord of the Rings
+* The Riyria Revelations
 * Memory, Sorrow and Thorn trilogy
+* Farseer Trilogy
 * Bartimaeus sequence
 * Dark Tower
 * Dune (only the 1st book)
@@ -31,6 +33,8 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Belgariad
 * His Dark Materials
 * Jonathan Strange & Mr Norrell
+* Dragonriders of Pern
+* Alcatraz
 
 <br>
 # <a name="science-fiction"></a>Science Fiction
