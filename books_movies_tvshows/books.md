@@ -20,8 +20,8 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 # <a name="fantasy"></a>Fantasy
 
 * Harry Potter
-* Cosmere
-    * [Reading guide](http://botanicaxu.tumblr.com/post/144498644804/botanicaxu-edit-cosmere-books-reading-order)
+* Cosmere and pretty much every series by Brandon (Alcatraz, Reckoners, Rithmatist, Legion, etc)
+    * [Cosmere reading guide](http://botanicaxu.tumblr.com/post/144498644804/botanicaxu-edit-cosmere-books-reading-order)
 * Lord of the Rings
 * The Riyria Revelations
 * Memory, Sorrow and Thorn trilogy
@@ -34,7 +34,8 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * His Dark Materials
 * Jonathan Strange & Mr Norrell
 * Dragonriders of Pern
-* Alcatraz
+* Discworld
+    * Have read only **Mort** so far, but easy to recommend the whole series based on it
 
 <br>
 # <a name="science-fiction"></a>Science Fiction
