@@ -22,6 +22,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Harry Potter
 * Cosmere and pretty much every series by Brandon (Alcatraz, Reckoners, Rithmatist, Legion, etc)
     * [Cosmere reading guide](http://botanicaxu.tumblr.com/post/144498644804/botanicaxu-edit-cosmere-books-reading-order)
+* The Kingkiller Chronicle
 * Lord of the Rings
 * The Riyria Revelations
 * Memory, Sorrow and Thorn trilogy
