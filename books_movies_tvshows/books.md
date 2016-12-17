@@ -45,6 +45,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Martian
 * The Foundation Universe
     * [list of books](https://en.wikipedia.org/wiki/Foundation_series#List_of_books_within_the_Foundation_Universe)
+* The Stars My Destination
 * The Gods Themselves
 * Hyperion Cantos
 * Red Rising trilogy
@@ -69,14 +70,16 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Gone Girl
 * The Millennium trilogy
 * The Day of the Jackal
+* The Silence of the Lambs
+* Red Dragon
+* Godfather
+* The Devotion of Suspect X
 * The Da Vinci Code
 * Angels & Demons
 * Honor among Thieves
-* The Silence of the Lambs
-* Red Dragon
+* The Clifton Chronicles
+* Paths of Glory
 * If Tomorrow Comes
-* Godfather
-* The Devotion of Suspect X
 
 <br>
 # <a name="feel-good,-humor-and-others"></a>Feel good, Humor and Others
