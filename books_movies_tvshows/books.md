@@ -28,6 +28,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Memory, Sorrow and Thorn trilogy
 * Farseer Trilogy
 * Bartimaeus sequence
+* The Goblin Emperor
 * Dark Tower
 * Dune (only the 1st book)
 * The First Law trilogy
@@ -37,12 +38,16 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Dragonriders of Pern
 * Discworld
     * Have read only **Mort** so far, but easy to recommend the whole series based on it
+* Dawn of Wonder
+* The Golem and the Jinni
+* Night Angel trilogy
 
 <br>
 # <a name="science-fiction"></a>Science Fiction
 
 * Ender's Game
 * The Martian
+* The Long Way to a Small, Angry Planet
 * The Foundation Universe
     * [list of books](https://en.wikipedia.org/wiki/Foundation_series#List_of_books_within_the_Foundation_Universe)
 * The Stars My Destination
