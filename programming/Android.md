@@ -10,6 +10,7 @@
 
 
 <br>
+
 # <a name="learning-resources"></a>Learning Resources
 
 * [Google - training](https://developer.android.com/training/index.html)
@@ -24,12 +25,14 @@
 * [Google - codelabs](https://codelabs.developers.google.com/)
 
 <br>
+
 # <a name="tools"></a>Tools
 
 * [Android Studio](https://developer.android.com/studio/index.html)
 * [Android Studio tips and tricks](https://www.reddit.com/r/androiddev/comments/3swmuv/android_android_studio_tips_tricks_little_known/)
 
 <br>
+
 # <a name="code-examples"></a>Code Examples
 
 * [googlesamples](https://github.com/googlesamples)
@@ -38,6 +41,7 @@
 * [Quality open source projects](https://www.reddit.com/r/androiddev/comments/3igd4x/list_quality_open_source_projects_that_everyone/)
 
 <br>
+
 # <a name="ecosystem"></a>Ecosystem
 
 * [Developer Policy Center](https://play.google.com/about/developer-content-policy.html)
@@ -51,6 +55,7 @@
     * [Pay what you want model](https://www.reddit.com/r/androiddev/comments/34yudl/early_analysis_of_the_pay_what_you_want_model/)
 
 <br>
+
 # <a name="other-resource-lists"></a>Other resource lists
 
 * [stackoverflow - android info](http://stackoverflow.com/tags/android/info)
@@ -60,6 +65,7 @@
 * [awesome-mobile-dev](https://github.com/MakinGiants/awesome-mobile-dev)
 
 <br>
+
 # <a name="forums"></a>Forums
 
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 

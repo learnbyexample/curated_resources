@@ -9,6 +9,7 @@ Curated lists for programming, books, movies, music, games, etc
 * [License](#license)
 
 <br>
+
 # <a name="programming"></a>Programming
 
 * [Android](./programming/Android.md)
@@ -18,12 +19,14 @@ Curated lists for programming, books, movies, music, games, etc
 * [Vim](https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md)
 
 <br>
+
 # <a name="books-movies-tvshows"></a>Books, Movies and TV shows
 
 * [Fictional books](./books_movies_tvshows/books.md)
 * [Anime and Manga](./books_movies_tvshows/Anime_and_Manga.md)
 
 <br><br><br><br>
+
 # <a name="meta"></a>Meta
 
 ### <a name="programming-lists"></a>Programming Lists
@@ -36,6 +39,7 @@ Curated lists for programming, books, movies, music, games, etc
 * [MOOC courses that provide free certificate of accomplishments upon completion](https://github.com/prahladyeri/List_Of_Free_MOOC)
 
 <br>
+
 ### <a name="books"></a>Books
 
 * [Fantasy](https://www.reddit.com/r/Fantasy/wiki/lists)
@@ -43,6 +47,7 @@ Curated lists for programming, books, movies, music, games, etc
 * [Reddit's favorite books - as of 2011](https://www.reddit.com/r/raerth/comments/cpxkq/reddits_favourite_books)
 
 <br>
+
 ### <a name="movies-and-tv-shows"></a>Movies and TV shows
 
 * [Movie lists based on Rotten Tomatoes and IMDB](https://www.reddit.com/r/movies/comments/3ivqgj/i_combined_rotten_tomatoes_and_imdb_ratings_to/)
@@ -51,6 +56,7 @@ Curated lists for programming, books, movies, music, games, etc
 * [Must watch TV series](https://www.quora.com/What-are-the-top-20-must-watch-series)
 
 <br><br>
+
 # <a name="license"></a>License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -17,6 +17,7 @@ Curated list of fictional books I've read so far...
 Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=read)
 
 <br>
+
 # <a name="fantasy"></a>Fantasy
 
 * Harry Potter
@@ -43,6 +44,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Night Angel trilogy
 
 <br>
+
 # <a name="science-fiction"></a>Science Fiction
 
 * Ender's Game
@@ -58,6 +60,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Timeline
 
 <br>
+
 # <a name="detective-and-courtroom"></a>Detective and Courtroom
 
 * Sherlock Holmes (4 novels, 56 short stories)
@@ -67,6 +70,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Murder of Roger Ackroyd
 
 <br>
+
 # <a name="thriller-and-mystery"></a>Thriller and Mystery
 
 * The Bourne Identity
@@ -87,6 +91,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * If Tomorrow Comes
 
 <br>
+
 # <a name="feel-good,-humor-and-others"></a>Feel good, Humor and Others
 
 * To Kill a Mocking Bird
@@ -101,6 +106,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
 
 <br>
+
 # <a name="classics"></a>Classics
 
 * The Count of Monte Cristo
@@ -115,12 +121,14 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Adventures of Tom Sawyer
 
 <br>
+
 # <a name="dystopian"></a>Dystopian
 
 * 1984
 * The Hunger Games
 
 <br>
+
 # <a name="indian"></a>Indian
 
 * The Revenge of Kaivalya
@@ -132,6 +140,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Encounters - Someone's Always Waiting
 
 <br>
+
 # <a name="short-story-collections"></a>Short story collections
 
 * The Other Side of the Sky
