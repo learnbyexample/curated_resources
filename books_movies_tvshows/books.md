@@ -42,6 +42,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Dawn of Wonder
 * The Golem and the Jinni
 * Night Angel trilogy
+* Lightbringer series
 
 <br>
 
