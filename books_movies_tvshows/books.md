@@ -27,6 +27,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Lord of the Rings
 * The Riyria Revelations
 * Memory, Sorrow and Thorn trilogy
+* Wheel of Time
 * Farseer Trilogy
 * Bartimaeus sequence
 * The Goblin Emperor
