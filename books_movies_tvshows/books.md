@@ -30,6 +30,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Wheel of Time
 * Farseer Trilogy
 * Bartimaeus sequence
+* Howl's Moving Castle
 * The Goblin Emperor
 * Dark Tower
 * Dune (only the 1st book)
