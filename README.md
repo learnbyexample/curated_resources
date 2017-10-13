@@ -1,6 +1,8 @@
 Curated lists for programming, books, movies, music, games, etc
 
-* [Programming](#programming)
+### :hash: Table of Contents
+
+* [Learning stuff](#learning-stuff)
 * [Books, Movies and TV shows](#books-movies-tvshows)
 * [Meta](#meta)
     * [Programming Lists](#programming-lists)
@@ -10,8 +12,9 @@ Curated lists for programming, books, movies, music, games, etc
 
 <br>
 
-# <a name="programming"></a>Programming
+# <a name="learning-stuff"></a>Learning stuff
 
+* [School and college subjects](./Education.md)
 * [Android](./programming/Android.md)
 * [Linux](https://github.com/learnbyexample/scripting_course/blob/master/Linux_curated_resources.md)
 * [Perl](https://github.com/learnbyexample/scripting_course/blob/master/Perl_curated_resources.md)
