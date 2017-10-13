@@ -45,6 +45,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Golem and the Jinni
 * Night Angel trilogy
 * Lightbringer series
+* Abhorsen series
 
 <br>
 
@@ -107,6 +108,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Hitchhiker's Guide to the Galaxy
 * Mort
 * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+* Your Name
 
 <br>
 
