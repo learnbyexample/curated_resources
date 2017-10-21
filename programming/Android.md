@@ -14,15 +14,17 @@
 # <a name="learning-resources"></a>Learning Resources
 
 * [Google - training](https://developer.android.com/training/index.html)
-   * [Android Skilling Program for India](http://googleindia.blogspot.in/2016/07/introducing-android-skilling-program.html)
-* [CodePath Android Cliffnotes](http://guides.codepath.com/android)
+   * [getting started with Kotlin](https://developer.android.com/kotlin/get-started.html)
+   * [Android Skilling Program for India](https://india.googleblog.com/2016/07/introducing-android-skilling-program.html)
+* [CodePath Android Cliffnotes](https://guides.codepath.com/android)
+* [Kotlin resources](https://kotlin.link/)
+   * [learnxinyminutes - quick guide](https://learnxinyminutes.com/docs/kotlin/)
 
 ### <a name="online-courses"></a>Online Courses
 
-* [Udacity - Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree--nd801)
 * [Coursera - Android App Development](https://www.coursera.org/specializations/android-app-development)
-* [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html#0)
 * [Google - codelabs](https://codelabs.developers.google.com/)
+   * [Build a Material Design App with the Android Design Support Library](https://codelabs.developers.google.com/codelabs/material-design-style/index.html#0)
 
 <br>
 
@@ -36,9 +38,10 @@
 # <a name="code-examples"></a>Code Examples
 
 * [googlesamples](https://github.com/googlesamples)
-* [coursera-android](https://github.com/aporter/coursera-android/tree/master/Examples)
-* [materialdoc](http://www.materialdoc.com/)
-* [Quality open source projects](https://www.reddit.com/r/androiddev/comments/3igd4x/list_quality_open_source_projects_that_everyone/)
+* [materialdoc](https://materialdoc.com/)
+* [android-examples](https://github.com/nisrulz/android-examples)
+* [coursera-android](https://github.com/aporter/coursera-android/tree/master/Examples) - last update 2015
+* [Quality open source projects](https://www.reddit.com/r/androiddev/comments/3igd4x/list_quality_open_source_projects_that_everyone/) - list from 2015
 
 <br>
 
@@ -58,10 +61,10 @@
 
 # <a name="other-resource-lists"></a>Other resource lists
 
-* [stackoverflow - android info](http://stackoverflow.com/tags/android/info)
+* [stackoverflow - android info](https://stackoverflow.com/tags/android/info)
 * [androiddev - wiki](https://www.reddit.com/r/androiddev/wiki/index)
 * [awesome-android](https://github.com/JStumpp/awesome-android)
-* [Collection of links for every Android developer](https://github.com/anirudh24seven/android-dev-readme)
+* [Collection of links for every Android developer](https://github.com/anirudh24seven/android-dev-readme) - last update 2015
 * [awesome-mobile-dev](https://github.com/MakinGiants/awesome-mobile-dev)
 
 <br>
@@ -71,6 +74,6 @@
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. 
 
 * [stackoverflow - android](http://stackoverflow.com/tags/android)
-* [/r/androiddev](http://www.reddit.com/r/androiddev)
-* [/r/android](http://www.reddit.com/r/android)
-* [xda-developers](http://forum.xda-developers.com/)
+* [/r/androiddev](https://www.reddit.com/r/androiddev)
+* [/r/android](https://www.reddit.com/r/android)
+* [xda-developers](https://forum.xda-developers.com/)
