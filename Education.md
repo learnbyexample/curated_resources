@@ -4,6 +4,7 @@
 
 * [Maths](#maths)
 * [Physics](#physics)
+* [Brainy games](#brainy-games)
 
 <br>
 
@@ -63,3 +64,24 @@
     * [learn-anything](https://learn-anything.xyz/physics)
     * [How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
 * [wolframalpha](https://www.wolframalpha.com/examples/Physics.html)
+
+<br>
+
+## <a name="brainy-games"></a>Brainy games
+
+**Android**
+
+* [2048](https://play.google.com/store/apps/details?id=com.digiplex.game)
+* [Threes](https://play.google.com/store/apps/details?id=vo.threes.free)
+* [Get 9](https://play.google.com/store/apps/details?id=com.pt.numberseries)
+* [Game about Squares](https://play.google.com/store/apps/details?id=com.gameaboutsquares.free)
+* [Bounce Out](https://play.google.com/store/apps/details?id=com.gmail.mgdicks.Bounce_Out)
+* [0h h1](https://play.google.com/store/apps/details?id=com.q42.ohhi)
+* [Lightbot : Code Hour](https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc)
+* [Coddy: World on Algorithm](https://play.google.com/store/apps/details?id=com.SimplyProjects.CoddyFree)
+* [Square Tic Tac Toe](https://play.google.com/store/apps/details?id=me.squaretictactoe.squaretictactoe) - bias note: my own app
+
+**Website**
+
+* [Pencil and Paper Games](http://www.papg.com/)
+
