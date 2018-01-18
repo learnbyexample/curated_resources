@@ -9,6 +9,7 @@
 * [Dystopian](#dystopian)
 * [Indian](#indian)
 * [Short story collections](#short-story-collections)
+* [Graphic novels](#graphic-novels)
 
 Curated list of fictional books I've read so far...
 
@@ -46,6 +47,9 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Night Angel trilogy
 * Lightbringer series
 * Abhorsen series
+* Heartstrikers series
+* Poison Study trilogy
+* Unguilded
 
 <br>
 
@@ -93,6 +97,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Clifton Chronicles
 * Paths of Glory
 * If Tomorrow Comes
+* Rita Hayworth and Shawshank Redemption
 
 <br>
 
@@ -150,3 +155,11 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 
 * The Other Side of the Sky
 * To Cut a Long Story Short
+
+<br>
+
+# <a name="graphic-novels"></a>Graphic novels
+	
+* Avatar: The Last Airbender - follow up comic series
+* Akira
+* Saga
