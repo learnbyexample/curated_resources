@@ -63,6 +63,7 @@
     * [So You Want To Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
     * [learn-anything](https://learn-anything.xyz/physics)
     * [How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html)
+    * [physicstravelguide](https://physicstravelguide.com/)
 * [wolframalpha](https://www.wolframalpha.com/examples/Physics.html)
 
 <br>
