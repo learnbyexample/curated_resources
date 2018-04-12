@@ -12,6 +12,7 @@
 * [FAQs and Tips](#faqs-and-tips)
 * [Practice makes perfect](#practice-makes-perfect)
     * [Practice sites](#practice-sites)
+* [Resource lists](#resource-lists)
 * [Forums](#forums)
 
 <br>
@@ -94,6 +95,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [learning by converting code from one language to another](https://www.reddit.com/r/learnpython/comments/5503pa/code_conversion_probably_the_best_tool_any_level/)
 * [I know how to program, but I don't know what to program](https://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program)
 * [Write a command-line utility](https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/)
+* [Curated list of Project Based Learning](https://github.com/tuvtran/project-based-learning)
 
 <br>
 
@@ -107,6 +109,18 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
     * [codingame](https://www.codingame.com/)
 	* [checkio](https://www.checkio.org/)
 * [list of Logic and Coding Games](https://github.com/dargaCode/LogicAndCodingGames)
+
+<br>
+
+## <a name="resource-lists"></a>Resource lists
+
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
+    * [AwesomeSearch](https://awesomelists.top/) - search awesome lists
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) - annotated list of resources
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+
 
 <br>
 
