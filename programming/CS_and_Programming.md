@@ -10,9 +10,12 @@
 * [Guides](#guides)
     * [Stories](#stories)
 * [FAQs and Tips](#faqs-and-tips)
+    * [Squash those pesky bugs](#squash-those-pesky-bugs)
+    * [FAQs on stackexchange](#faqs-on-stackexchange)
 * [Practice makes perfect](#practice-makes-perfect)
     * [Practice sites](#practice-sites)
 * [Resource lists](#resource-lists)
+    * [Books](#books)
 * [Forums](#forums)
 
 <br>
@@ -29,12 +32,12 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 #### <a name="computer-science"></a>Computer Science
 
-* [CS50 - Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - free course on edx, self paced
+* [CS50 - Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
     * [videos playlist on youtube](https://www.youtube.com/watch?v=y62zj9ozPOM)
     * [course details on Harvard website](https://cs50.harvard.edu/)
 * [MIT 6.0001 - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) - free course on edx, self paced
     * [course details on MIT website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-
+* [Stanford CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) - Java
 <br>
 
 #### <a name="python"></a>Python
@@ -83,9 +86,27 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [What's this buzz about FizzBuzz?](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
 * [If you want to learn you'll need to be willing to look stupid](https://www.reddit.com/r/learnprogramming/comments/5jm97p/if_you_want_to_learn_youll_need_to_be_willing_to/)
 * [Techniques for Efficiently Learning Programming Languages](http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/)
-* [Rubber duck debugging](https://rubberduckdebugging.com/)
 * [Organizational Skills Beat Algorithmic Wizardry](http://prog21.dadgum.com/177.html)
 * [Things you might encounter in your programming journey](https://www.techinasia.com/talk/27-things-started-programming)
+
+<br>
+
+#### <a name="squash-those-pesky-bugs"></a>Squash those pesky bugs
+
+* [Rubber duck debugging](https://rubberduckdebugging.com/)
+* [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
+* [Problem solving skills](https://ryanstutorials.net/problem-solving-skills/)
+* [Debugging guide](https://uchicago-cs.github.io/debugging-guide/)
+
+<br>
+
+#### <a name="faqs-on-stackexchange"></a>FAQs on stackexchange
+
+Given links sort the questions by votes, see also questions under frequent and other tabs
+
+* [softwareengineering.stackexchange](https://softwareengineering.stackexchange.com/questions?sort=votes)
+* [cs.stackexchange](https://cs.stackexchange.com/questions?sort=votes)
+* [cstheory.stackexchange](https://cstheory.stackexchange.com/questions?sort=votes)
 
 <br>
 
@@ -119,8 +140,20 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
     * [AwesomeSearch](https://awesomelists.top/) - search awesome lists
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) - annotated list of resources
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science
+* [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - awesome places to learn and/or practice algorithms
 
+<br>
+
+#### <a name="books"></a>Books
+
+* [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+* [Programming book list by danluu](https://danluu.com/programming-books/)
+* [What Books Should Everyone Read?](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read)
+* [Books every software engineer should read](https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to/)
+* [Programming Language Theory books and resources](https://github.com/steshaw/plt)
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 
 <br>
 
