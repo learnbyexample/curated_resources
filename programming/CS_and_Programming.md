@@ -16,6 +16,10 @@
     * [Practice sites](#practice-sites)
 * [Resource lists](#resource-lists)
     * [Books](#books)
+* [Toolset](#toolset)
+    * [IDE and Text Editors](#ide-and-text-editors)
+    * [Version control](#version-control)
+    * [Miscellaneous](#miscellaneous)
 * [Forums](#forums)
 
 <br>
@@ -154,6 +158,42 @@ Given links sort the questions by votes, see also questions under frequent and o
 * [Books every software engineer should read](https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to/)
 * [Programming Language Theory books and resources](https://github.com/steshaw/plt)
 * [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+
+<br>
+
+## <a name="toolset"></a>Toolset
+
+<br>
+
+#### <a name="ide-and-text-editors"></a>IDE and Text Editors
+
+* [IDEs for various languages by Jetbrains](https://www.jetbrains.com/products.html#type=ide) - has both community and enterprise versions
+* [KDevelop](https://www.kdevelop.org/) - cross-platform IDE for C, C++, Python, QML/JavaScript and PHP
+* [Vim](https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md)
+* [Emacs](https://github.com/emacs-tw/awesome-emacs)
+* [Geany](https://www.geany.org/)
+* [Gedit](https://wiki.gnome.org/Apps/Gedit)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Visual Studio Code](https://github.com/Microsoft/vscode/)
+
+<br>
+
+#### <a name="version-control"></a>Version control
+
+* [git](https://git-scm.com/) - open source distributed version control system
+    * Collaborate: [github](https://github.com/), [gitlab](https://about.gitlab.com/), [bitbucket](https://bitbucket.org/)
+    * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+    * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+* [wikipedia - Version control](https://en.wikipedia.org/wiki/Version_control)
+
+<br>
+
+#### <a name="miscellaneous"></a>Miscellaneous
+
+* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - curated list of tools, resources and workflow tips
+* [free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings
+* [Jupyter](https://jupyter.org/) - interactive computing across dozens of programming languages
+* [Compiler Explorer](https://godbolt.org/) - interactive compiler, code to asm for various programming languages and platforms
 
 <br>
 
