@@ -16,6 +16,8 @@
     * [Practice sites](#practice-sites)
 * [Resource lists](#resource-lists)
     * [Books](#books)
+    * [Cheatsheets](#cheatsheets)
+    * [Style guides](#style-guides)
 * [Toolset](#toolset)
     * [IDE and Text Editors](#ide-and-text-editors)
     * [Version control](#version-control)
@@ -147,6 +149,7 @@ Given links sort the questions by votes, see also questions under frequent and o
 * [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - awesome places to learn and/or practice algorithms
+    * Data Structure Visualizations - [cs.usfca.edu](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), [visualgo](https://visualgo.net/en)
 
 <br>
 
@@ -158,6 +161,21 @@ Given links sort the questions by votes, see also questions under frequent and o
 * [Books every software engineer should read](https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to/)
 * [Programming Language Theory books and resources](https://github.com/steshaw/plt)
 * [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+
+<br>
+
+#### <a name="cheatsheets"></a>Cheatsheets
+
+* [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+* [learnxinyminutes](https://learnxinyminutes.com/) - whirlwind tour of programming languages, concepts and tools
+* [tldr](https://github.com/tldr-pages/tldr) - simplified and community-driven man pages
+
+<br>
+
+#### <a name="style-guides"></a>Style guides
+
+* [awesome-guidelines](https://github.com/Kristories/awesome-guidelines)
+* [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
 
 <br>
 
