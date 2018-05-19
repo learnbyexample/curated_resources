@@ -99,10 +99,12 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 #### <a name="squash-those-pesky-bugs"></a>Squash those pesky bugs
 
+* [english.stackexchange: Origin of “bug” in reference to software](https://english.stackexchange.com/questions/40934/origin-of-bug-in-reference-to-software)
 * [Rubber duck debugging](https://rubberduckdebugging.com/)
 * [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
 * [Problem solving skills](https://ryanstutorials.net/problem-solving-skills/)
 * [Debugging guide](https://uchicago-cs.github.io/debugging-guide/)
+* [stackoverflow: bug stories](https://stackoverflow.com/questions/169713/whats-the-toughest-bug-you-ever-found-and-fixed)
 
 <br>
 
@@ -113,6 +115,7 @@ Given links sort the questions by votes, see also questions under frequent and o
 * [softwareengineering.stackexchange](https://softwareengineering.stackexchange.com/questions?sort=votes)
 * [cs.stackexchange](https://cs.stackexchange.com/questions?sort=votes)
 * [cstheory.stackexchange](https://cstheory.stackexchange.com/questions?sort=votes)
+* [cseducators.stackexchange](https://cseducators.stackexchange.com/questions?sort=votes)
 
 <br>
 
