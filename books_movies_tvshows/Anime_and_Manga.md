@@ -4,7 +4,7 @@
     * [Slice of life](#slice-of-life)
 * [Manga](#manga)
 * [Movies](#movies)
-* [User lists on myanimelist](#user-lists-on-myanimelist)
+* [Lists and recommendations](#lists-and-recommendations)
 
 With input from members of [Devs and Hackers](http://devup.in/) slack group
 
@@ -12,6 +12,7 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 
 # <a name="anime"></a>Anime
 
+* [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood) - Fantasy, Action
 * [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate) - science fiction thriller
 * [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man) - Super Power, Parody
 * [Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen](https://myanimelist.net/anime/44/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Tsuioku-hen) - Samurai, Martial arts
@@ -19,6 +20,7 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 * [Death Parade](https://myanimelist.net/anime/28223/Death_Parade) - Supernatural/character drama
 * [Nichijou](https://myanimelist.net/anime/10165/Nichijou) - Slapstick comedy
 * [Boku dake ga Inai Machi](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi) - Mystery
+* [Planetes](https://myanimelist.net/anime/329/Planetes) - science fiction, space
 
 #### <a name="slice-of-life"></a>Slice of life
 
@@ -53,8 +55,9 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 
 <br>
 
-# <a name="user-lists-on-myanimelist"></a>User lists on myanimelist
+# <a name="lists-and-recommendations"></a>Lists and recommendations
 
+* [recommendations on /r/anime](https://www.reddit.com/r/anime/wiki/recommendations)
 * [list by user dragsubila](https://myanimelist.net/animelist/dragsubila?status=7&order=4&order2=0)
 * [Slice of Life list](https://myanimelist.net/anime/genre/36/Slice_of_Life)
 
