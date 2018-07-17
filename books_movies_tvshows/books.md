@@ -29,6 +29,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Riyria Revelations
 * Memory, Sorrow and Thorn trilogy
 * Wheel of Time
+* Worm
 * Farseer Trilogy
 * Bartimaeus sequence
 * Howl's Moving Castle
@@ -49,7 +50,11 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Abhorsen series
 * Heartstrikers series
 * Poison Study trilogy
+* The Raven Cycle
 * Unguilded
+* Legend
+* Redwall
+* The Dagger and the Coin
 
 <br>
 
@@ -66,6 +71,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Red Rising trilogy
 * The Andromeda Strain
 * Timeline
+* The Thrawn Trilogy
 
 <br>
 
@@ -104,8 +110,10 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 # <a name="feel-good,-humor-and-others"></a>Feel good, Humor and Others
 
 * To Kill a Mocking Bird
+* Your Name
 * The Alchemist
 * The Book Thief
+* Life of Pi
 * The Curious Incident of the Dog In the Night-time
 * Matilda
 * The Green Mile
@@ -113,7 +121,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Hitchhiker's Guide to the Galaxy
 * Mort
 * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
-* Your Name
+* Wilt
 
 <br>
 
@@ -160,6 +168,8 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 
 # <a name="graphic-novels"></a>Graphic novels
 	
+* Magi: The Labyrinth of Magic
+* Saga
 * Avatar: The Last Airbender - follow up comic series
 * Akira
-* Saga
+
