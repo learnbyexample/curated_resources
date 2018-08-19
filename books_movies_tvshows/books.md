@@ -11,7 +11,7 @@
 * [Short story collections](#short-story-collections)
 * [Graphic novels](#graphic-novels)
 
-Curated list of fictional books I've read so far...
+Curated list of fictional books I've read and liked so far...
 
 > So many books, so little time...
 
@@ -22,8 +22,9 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 # <a name="fantasy"></a>Fantasy
 
 * Harry Potter
-* Cosmere and pretty much every series by Brandon (Alcatraz, Reckoners, Rithmatist, Legion, etc)
-    * [Cosmere reading guide](http://botanicaxu.tumblr.com/post/144498644804/botanicaxu-edit-cosmere-books-reading-order)
+* The Stormlight Archive
+    * almost every series by Brandon Sanderson (Mistborn, Warbreaker, Elantris, Alcatraz, Reckoners, Rithmatist, Legion, etc)
+    * see also [Cosmere reading order](https://www.reddit.com/r/cosmere/wiki/order)
 * The Kingkiller Chronicle
 * Lord of the Rings
 * The Riyria Revelations
@@ -42,7 +43,6 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Jonathan Strange & Mr Norrell
 * Dragonriders of Pern
 * Discworld
-    * Have read only **Mort** so far, but easy to recommend the whole series based on it
 * Dawn of Wonder
 * The Golem and the Jinni
 * Night Angel trilogy
@@ -51,10 +51,11 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Heartstrikers series
 * Poison Study trilogy
 * The Raven Cycle
-* Unguilded
 * Legend
 * Redwall
 * The Dagger and the Coin
+* Eon duology
+* Unguilded
 
 <br>
 
@@ -128,6 +129,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 # <a name="classics"></a>Classics
 
 * The Count of Monte Cristo
+* Sherlock Holmes
 * Jane Eyre
 * The Scarlet Pimpernel
 * Oliver Twist
@@ -170,6 +172,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 	
 * Magi: The Labyrinth of Magic
 * Saga
+* Paper Girls
 * Avatar: The Last Airbender - follow up comic series
 * Akira
 
