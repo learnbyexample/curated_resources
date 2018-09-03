@@ -31,6 +31,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Memory, Sorrow and Thorn trilogy
 * Wheel of Time
 * Worm
+* Cradle series
 * Farseer Trilogy
 * Bartimaeus sequence
 * Howl's Moving Castle
@@ -55,6 +56,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Redwall
 * The Dagger and the Coin
 * Eon duology
+* To Ride Hell's Chasm
 * Unguilded
 
 <br>
