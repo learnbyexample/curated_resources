@@ -38,6 +38,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Goblin Emperor
 * Dark Tower
 * Dune (only the 1st book)
+* Powder Mage trilogy
 * The First Law trilogy
 * The Belgariad
 * His Dark Materials
@@ -174,6 +175,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 	
 * Magi: The Labyrinth of Magic
 * Saga
+* Bone
 * Paper Girls
 * Avatar: The Last Airbender - follow up comic series
 * Akira
