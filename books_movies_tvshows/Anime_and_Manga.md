@@ -13,14 +13,16 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 # <a name="anime"></a>Anime
 
 * [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood) - Fantasy, Action
-* [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate) - science fiction thriller
+* [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate) - Science fiction thriller
 * [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man) - Super Power, Parody
 * [Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen](https://myanimelist.net/anime/44/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Tsuioku-hen) - Samurai, Martial arts
+* [Noragami: Stray God](https://myanimelist.net/anime/20507/Noragami) - Supernatural, Action, sequel is good too
+* [Angel Beats!](https://myanimelist.net/anime/6547/Angel_Beats) - Supernatural, School
 * [Black Lagoon](https://myanimelist.net/anime/889/Black_Lagoon) - Action
 * [Death Parade](https://myanimelist.net/anime/28223/Death_Parade) - Supernatural/character drama
 * [Nichijou](https://myanimelist.net/anime/10165/Nichijou) - Slapstick comedy
 * [Boku dake ga Inai Machi](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi) - Mystery
-* [Planetes](https://myanimelist.net/anime/329/Planetes) - science fiction, space
+* [Planetes](https://myanimelist.net/anime/329/Planetes) - Science fiction, Space
 
 #### <a name="slice-of-life"></a>Slice of life
 
@@ -28,6 +30,7 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 * [Toradora](https://myanimelist.net/anime/4224/Toradora)
 * [Clannad](https://myanimelist.net/anime/2167/Clannad) - sequel is good too
 * [Sakurasou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakurasou_no_Pet_na_Kanojo)
+* [GJ-bu](https://myanimelist.net/anime/14811/GJ-bu) 
 
 <br>
 
@@ -52,6 +55,7 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 * [Hotaru no Haka](https://myanimelist.net/anime/578/Hotaru_no_Haka) - Historical
 * [Majo no Takkyuubin](https://myanimelist.net/anime/512/Majo_no_Takkyuubin) - Fantasy, Comedy
 * [Gake no Ue no Ponyo](https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo) - Fantasy
+* [Karigurashi no Arrietty](https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty) - Fantasy
 
 <br>
 
