@@ -22,6 +22,7 @@
     * [mathoverflow](https://mathoverflow.net/questions?sort=votes)
     * [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
     * [Mathematical games interesting to both you and a 5+-year-old child](https://mathoverflow.net/questions/281447/mathematical-games-interesting-to-both-you-and-a-5-year-old-child)
+    * [Proofs without words](https://mathoverflow.net/questions/8846/proofs-without-words)
 * [mathgames](https://www.mathgames.com/) - up to 8th grade
 * [Instructables](http://www.instructables.com/id/Math/) - fun, puzzles, projects, etc
 * [mathigon courses](https://mathigon.org/courses) - interactive content to explore and discover
