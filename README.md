@@ -1,6 +1,14 @@
+<p align="center">
+    <a href="https://gitter.im/learnbyexample/scripting_course"><img src="https://badges.gitter.im/learnbyexample/scripting_course.svg" width="100px" height="30px" /></a>
+    <a href="https://www.patreon.com/learnbyexample"><img src="./images/become_a_patron_button.png" width="150px" height="30px" /></a>
+    <a href="https://liberapay.com/learnbyexample/donate"><img src="https://liberapay.com/assets/widgets/donate.svg" width="100px" height="30px" /></a>
+</p>
+
+<br>
+
 Curated lists for programming, books, movies, music, games, etc
 
-### :hash: Table of Contents
+:hash: **Table of Contents**
 
 * [Learning stuff](#learning-stuff)
 * [Books, Movies and TV shows](#books-movies-tvshows)
@@ -8,6 +16,7 @@ Curated lists for programming, books, movies, music, games, etc
     * [Programming Lists](#programming-lists)
     * [Books](#books)
     * [Movies and TV shows](#movies-and-tv-shows)
+* [Contributing](#contributing)
 * [License](#license)
 
 <br>
@@ -58,8 +67,21 @@ Curated lists for programming, books, movies, music, games, etc
 * [Anime recommendation](https://www.reddit.com/r/anime/comments/48omc3/announcing_ranimes_ultimate_recommendation/)
 * [Must watch TV series](https://www.quora.com/What-are-the-top-20-must-watch-series)
 
-<br><br>
+<br>
+
+# <a name="contributing"></a>Contributing
+
+* Please open an issue for typos/bugs/suggestions/etc
+    * Even for pull requests, open an issue for discussion before submitting PRs
+    * or [gitter group chat](https://gitter.im/learnbyexample/scripting_course) for discussion as well as for help/mentorship
+* Share the repo with friends/colleagues, on social media, etc to help reach other learners
+* Contribute by donating on [patreon](https://www.patreon.com/learnbyexample) or [liberapay](https://liberapay.com/learnbyexample/donate)
+* In case you need to reach me, use [gitter private chat](https://gitter.im/learnbyexample)
+    * or mail me at `echo 'bGVhcm5ieWV4YW1wbGUubmV0QGdtYWlsLmNvbQo=' | base64 --decode`
+
+<br>
 
 # <a name="license"></a>License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
