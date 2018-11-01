@@ -48,10 +48,9 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 #### <a name="python"></a>Python
 
+* [How to Think Like a Computer Scientist - Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
+    * Derived versions: [openbookproject](http://openbookproject.net/thinkcs/python/english3e/) and [interactivepython](https://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-* [How to Think Like a Computer Scientist - Think Python 2e](http://greenteapress.com/wp/think-python-2e/)
-    * [based on Think Python](http://openbookproject.net/thinkcs/python/english3e/)
-    * [interactive version](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 
 <br>
 
@@ -92,7 +91,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [What's this buzz about FizzBuzz?](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
 * [If you want to learn you'll need to be willing to look stupid](https://www.reddit.com/r/learnprogramming/comments/5jm97p/if_you_want_to_learn_youll_need_to_be_willing_to/)
 * [Techniques for Efficiently Learning Programming Languages](http://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/)
-* [Organizational Skills Beat Algorithmic Wizardry](http://prog21.dadgum.com/177.html)
+* [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
 * [Things you might encounter in your programming journey](https://www.techinasia.com/talk/27-things-started-programming)
 
 <br>
@@ -110,7 +109,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 #### <a name="faqs-on-stackexchange"></a>FAQs on stackexchange
 
-Given links sort the questions by votes, see also questions under frequent and other tabs
+Given links are sorted by votes, do explore other tabs as well
 
 * [softwareengineering.stackexchange](https://softwareengineering.stackexchange.com/questions?sort=votes)
 * [cs.stackexchange](https://cs.stackexchange.com/questions?sort=votes)
@@ -195,7 +194,6 @@ Given links sort the questions by votes, see also questions under frequent and o
 * [Geany](https://www.geany.org/)
 * [Gedit](https://wiki.gnome.org/Apps/Gedit)
 * [Sublime Text](https://www.sublimetext.com/)
-* [Visual Studio Code](https://github.com/Microsoft/vscode/)
 
 <br>
 
@@ -220,7 +218,7 @@ Given links sort the questions by votes, see also questions under frequent and o
 
 ## <a name="forums"></a>Forums
 
-Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, manual, ask a colleague, etc. See [asking smart-questions](http://catb.org/~esr/faqs/smart-questions.html#before)
+Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, reading manuals, ask a colleague, etc. See also [how to ask smart-questions](http://catb.org/~esr/faqs/smart-questions.html#before)
 
 * [/r/programming/](https://www.reddit.com/r/programming/) - for discussion and news about computer programming
 * [stackoverflow](https://stackoverflow.com/) and [stackexchange](https://stackexchange.com/sites) - for Q&As
