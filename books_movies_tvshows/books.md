@@ -58,6 +58,10 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Dagger and the Coin
 * Eon duology
 * To Ride Hell's Chasm
+* A Man of His Word series
+* Enchanted Forest Chronicles
+* The Curse of Chalion
+* Castle Hangnail
 * Unguilded
 
 <br>
@@ -120,6 +124,9 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Life of Pi
 * The Curious Incident of the Dog In the Night-time
 * Matilda
+* Howl's Moving Castle
+* Enchanted Forest Chronicles
+* Castle Hangnail
 * The Green Mile
 * Three Men in a Boat
 * Hitchhiker's Guide to the Galaxy
@@ -177,6 +184,6 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Saga
 * Bone
 * Paper Girls
-* Avatar: The Last Airbender - follow up comic series
+* Avatar: The Last Airbender (follow up comic series)
 * Akira
 
