@@ -32,6 +32,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Wheel of Time
 * Worm
 * Cradle series
+* Kings of the Wyld
 * Farseer Trilogy
 * Bartimaeus sequence
 * Howl's Moving Castle
@@ -58,6 +59,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Dagger and the Coin
 * Eon duology
 * To Ride Hell's Chasm
+* The Divine Cities
 * A Man of His Word series
 * Enchanted Forest Chronicles
 * The Curse of Chalion
@@ -133,6 +135,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Mort
 * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
 * Wilt
+* Kings of the Wyld
 
 <br>
 
