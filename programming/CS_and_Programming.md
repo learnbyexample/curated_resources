@@ -150,8 +150,10 @@ Given links are sorted by votes, do explore other tabs as well
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science
 * [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+* [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for software engineers
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - awesome places to learn and/or practice algorithms
     * Data Structure Visualizations - [cs.usfca.edu](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), [visualgo](https://visualgo.net/en)
+* [selfcare.tech](http://selfcare.tech/) - self-care resources for developers & others
 
 <br>
 
@@ -226,14 +228,4 @@ Read instructions provided by respective forums before asking a question. Try so
 * [/r/ProgrammerTIL/](https://www.reddit.com/r/ProgrammerTIL/)
 * [/r/webdev/](https://www.reddit.com/r/webdev/)
 * [/r/cscareerquestions/](https://www.reddit.com/r/cscareerquestions/) - discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-*More to come*
 
