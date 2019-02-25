@@ -17,12 +17,14 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 * [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man) - Super Power, Parody
 * [Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen](https://myanimelist.net/anime/44/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Tsuioku-hen) - Samurai, Martial arts
 * [Noragami: Stray God](https://myanimelist.net/anime/20507/Noragami) - Supernatural, Action, sequel is good too
+* [Seirei no Moribito](https://myanimelist.net/anime/1827/Seirei_no_Moribito) - Fantasy, Action, Historical
 * [Angel Beats!](https://myanimelist.net/anime/6547/Angel_Beats) - Supernatural, School
 * [Black Lagoon](https://myanimelist.net/anime/889/Black_Lagoon) - Action
 * [Death Parade](https://myanimelist.net/anime/28223/Death_Parade) - Supernatural/character drama
 * [Nichijou](https://myanimelist.net/anime/10165/Nichijou) - Slapstick comedy
 * [Boku dake ga Inai Machi](https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi) - Mystery
 * [Planetes](https://myanimelist.net/anime/329/Planetes) - Science fiction, Space
+* [Tsuki ga Kirei](https://myanimelist.net/anime/34822/Tsuki_ga_Kirei) - School, Romance
 
 #### <a name="slice-of-life"></a>Slice of life
 
@@ -31,6 +33,7 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 * [Clannad](https://myanimelist.net/anime/2167/Clannad) - sequel is good too
 * [Sakurasou no Pet na Kanojo](https://myanimelist.net/anime/13759/Sakurasou_no_Pet_na_Kanojo)
 * [GJ-bu](https://myanimelist.net/anime/14811/GJ-bu) 
+* [Hinamatsuri](https://myanimelist.net/anime/36296/Hinamatsuri)
 
 <br>
 
