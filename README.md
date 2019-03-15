@@ -23,13 +23,13 @@ Curated lists for programming, books, movies, music, games, etc
 
 # <a name="learning-stuff"></a>Learning stuff
 
-* [School and college subjects](./Education.md)
 * [CS and Programming](./programming/CS_and_Programming.md)
-* [Android](./programming/Android.md)
-* [Linux](https://github.com/learnbyexample/scripting_course/blob/master/Linux_curated_resources.md)
-* [Perl](https://github.com/learnbyexample/scripting_course/blob/master/Perl_curated_resources.md)
 * [Python](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
+* [Linux](https://github.com/learnbyexample/scripting_course/blob/master/Linux_curated_resources.md)
 * [Vim](https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md)
+* [Science subjects](./Education.md)
+* [Android](./programming/Android.md)
+* [Perl](https://github.com/learnbyexample/scripting_course/blob/master/Perl_curated_resources.md)
 
 <br>
 
