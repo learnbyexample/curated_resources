@@ -31,8 +31,9 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Memory, Sorrow and Thorn trilogy
 * Wheel of Time
 * Worm
-* Cradle series
+* Cradle series (and every other book by Will Wight)
 * Kings of the Wyld
+* Sufficiently Advanced Magic
 * Farseer Trilogy
 * Bartimaeus sequence
 * Howl's Moving Castle
@@ -50,6 +51,7 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * The Golem and the Jinni
 * Night Angel trilogy
 * Lightbringer series
+* The Legends of the First Empire
 * The Books of Babel
 * Abhorsen series
 * Heartstrikers series
@@ -60,14 +62,22 @@ Book shelf on [goodreads](https://www.goodreads.com/review/list/49545669?shelf=r
 * Legend
 * Redwall
 * The Dagger and the Coin
+* Rogues of the Republic
 * Eon duology
 * To Ride Hell's Chasm
+* Song of the Beast
 * The Divine Cities
 * A Man of His Word series
 * Enchanted Forest Chronicles
 * The Curse of Chalion
 * Castle Hangnail
+* The Thief Who Pulled on Trouble's Braids
 * Unguilded
+* Balam, Spring
+* Kingshold
+* The Ventifact Colossus
+* The Dragon Seller
+* The Divine Dungeon
 
 <br>
 
