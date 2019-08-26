@@ -13,11 +13,13 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 # <a name="anime"></a>Anime
 
 * [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood) - Fantasy, Action
+* [Hunter x Hunter](https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011) - Fantasy, Adventure, Action
 * [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate) - Science fiction thriller
 * [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man) - Super Power, Parody
 * [Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen](https://myanimelist.net/anime/44/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Tsuioku-hen) - Samurai, Martial arts
 * [Noragami: Stray God](https://myanimelist.net/anime/20507/Noragami) - Supernatural, Action, sequel is good too
 * [Seirei no Moribito](https://myanimelist.net/anime/1827/Seirei_no_Moribito) - Fantasy, Action, Historical
+* [Shingeki no Kyojin](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin) - Fantasy, Action, Mystery, Violent
 * [Angel Beats!](https://myanimelist.net/anime/6547/Angel_Beats) - Supernatural, School
 * [Black Lagoon](https://myanimelist.net/anime/889/Black_Lagoon) - Action
 * [Death Parade](https://myanimelist.net/anime/28223/Death_Parade) - Supernatural/character drama
@@ -28,6 +30,7 @@ With input from members of [Devs and Hackers](http://devup.in/) slack group
 
 #### <a name="slice-of-life"></a>Slice of life
 
+* [Barakamon](https://myanimelist.net/anime/22789/Barakamon)
 * [Himouto! Umaru-chan](https://myanimelist.net/anime/28825/Himouto_Umaru-chan) - sequel is good too
 * [Toradora](https://myanimelist.net/anime/4224/Toradora)
 * [Clannad](https://myanimelist.net/anime/2167/Clannad) - sequel is good too
