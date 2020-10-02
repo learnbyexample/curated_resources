@@ -38,17 +38,17 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 #### <a name="computer-science"></a>Computer Science
 
-* [CS50 — Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) — free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
+* [CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) — free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
     * [videos playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
     * [course details on Harvard website](https://cs50.harvard.edu/)
-* [MIT — Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — free course on edx, self paced
+* [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — free course on edx, self paced
     * [course details on MIT website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* [Stanford CS106A — Programming Methodology](https://see.stanford.edu/Course/CS106A) — Java
+* [Stanford CS106A: Programming Methodology](https://see.stanford.edu/Course/CS106A) — Java
 <br>
 
 #### <a name="python"></a>Python
 
-* [How to Think Like a Computer Scientist — Think Python 2e](https://greenteapress.com/wp/think-python-2e/) — gives you a solid foundation to programming, teaches debugging right the beginning, includes case studies, exercises, etc
+* [How to Think Like a Computer Scientist: Think Python 2e](https://greenteapress.com/wp/think-python-2e/) — gives you a solid foundation to programming, teaches debugging right the beginning, includes case studies, exercises, etc
     * [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/static/thinkcspy/index.html) — inspired by Think Python
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/) — teaches you programming concepts and then shows how to automate everyday problems
 * See my [Python resources for everybody](https://learnbyexample.github.io/py_resources/) collection for comprehensive resources on various topics
@@ -100,7 +100,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 #### <a name="squash-those-pesky-bugs"></a>Squash those pesky bugs
 
-* [english.stackexchange: Origin of “bug” in reference to software](https://english.stackexchange.com/questions/40934/origin-of-bug-in-reference-to-software)
+* [english.stackexchange: Origin of "bug" in reference to software](https://english.stackexchange.com/questions/40934/origin-of-bug-in-reference-to-software)
 * [Rubber duck debugging](https://rubberduckdebugging.com/)
 * [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/)
 * [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
@@ -203,7 +203,7 @@ Given links are sorted by votes, do explore other tabs as well
     * Collaborate: [github](https://github.com/), [gitlab](https://about.gitlab.com/)
     * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
     * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
-* [wikipedia — Version control](https://en.wikipedia.org/wiki/Version_control)
+* [wikipedia: Version control](https://en.wikipedia.org/wiki/Version_control)
 
 <br>
 
