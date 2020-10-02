@@ -1,6 +1,6 @@
 # <a name="cs-and-programming"></a>CS and Programming
 
-**Table of Contents**
+:hash: **Table of Contents**
 
 * [Where to begin](#where-to-begin)
     * [Computer Science](#computer-science)
@@ -26,7 +26,7 @@
 
 <br>
 
-Mostly based on good learning resource links I've come across on forums like reddit/news.ycombinator/etc
+Mostly based on good learning resource links I've come across on forums like reddit/news.ycombinator/github/twitter/etc
 
 Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer_science) and [Computer programming](https://en.wikipedia.org/wiki/Computer_programming) and other stuff like tools, self care, etc
 
@@ -38,19 +38,20 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 #### <a name="computer-science"></a>Computer Science
 
-* [CS50 - Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
-    * [videos playlist on youtube](https://www.youtube.com/watch?v=y62zj9ozPOM)
+* [CS50 — Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) — free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
+    * [videos playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
     * [course details on Harvard website](https://cs50.harvard.edu/)
-* [MIT 6.0001 - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) - free course on edx, self paced
+* [MIT — Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — free course on edx, self paced
     * [course details on MIT website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* [Stanford CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) - Java
+* [Stanford CS106A — Programming Methodology](https://see.stanford.edu/Course/CS106A) — Java
 <br>
 
 #### <a name="python"></a>Python
 
-* [How to Think Like a Computer Scientist - Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
-    * Derived versions: [openbookproject](http://openbookproject.net/thinkcs/python/english3e/) and [interactivepython](https://interactivepython.org/courselib/static/thinkcspy/index.html)
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [How to Think Like a Computer Scientist — Think Python 2e](https://greenteapress.com/wp/think-python-2e/) — gives you a solid foundation to programming, teaches debugging right the beginning, includes case studies, exercises, etc
+    * [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/static/thinkcspy/index.html) — inspired by Think Python
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/) — teaches you programming concepts and then shows how to automate everyday problems
+* See my [Python resources for everybody](https://learnbyexample.github.io/py_resources/) collection for comprehensive resources on various topics
 
 <br>
 
@@ -58,6 +59,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 * [khanacademy](https://www.khanacademy.org/computing/computer-programming)
 * [freecodecamp](https://www.freecodecamp.org/)
+* [theodinproject](https://www.theodinproject.com/home)
 
 <br>
 
@@ -100,6 +102,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 * [english.stackexchange: Origin of “bug” in reference to software](https://english.stackexchange.com/questions/40934/origin-of-bug-in-reference-to-software)
 * [Rubber duck debugging](https://rubberduckdebugging.com/)
+* [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/)
 * [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
 * [Problem solving skills](https://ryanstutorials.net/problem-solving-skills/)
 * [Debugging guide](https://uchicago-cs.github.io/debugging-guide/)
@@ -130,30 +133,27 @@ Given links are sorted by votes, do explore other tabs as well
 
 #### <a name="practice-sites"></a>Practice sites
 
-* [codewars](https://www.codewars.com/)
-* [adventofcode](https://adventofcode.com/)
-* [projecteuler](https://projecteuler.net/)
-* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
-* Gamification
-    * [codingame](https://www.codingame.com/)
-	* [checkio](https://www.checkio.org/)
+* [Exercism](https://exercism.io), [Edabit](https://edabit.com) — these are all beginner friendly and difficulty levels are marked
+* [Codewars](https://www.codewars.com/), [Adventofcode](https://adventofcode.com/), [Projecteuler](https://projecteuler.net/) — more challenging
+* [Checkio](https://checkio.org/), [Codingame](https://www.codingame.com/start), [Codecombat](https://codecombat.com/) — gaming based challenges
+* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer) — not active currently, but there's plenty of past challenges with discussions
 * [list of Logic and Coding Games](https://github.com/dargaCode/LogicAndCodingGames)
 
 <br>
 
 ## <a name="resource-lists"></a>Resource lists
 
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
-* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
-    * [AwesomeSearch](https://awesomelists.top/) - search awesome lists
-* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) - annotated list of resources
-* [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) — A curated list of awesome awesomeness
+* [awesome](https://github.com/sindresorhus/awesome) — Curated list of awesome lists
+    * [AwesomeSearch](https://awesomelists.top/) — search awesome lists
+* [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) — annotated list of resources
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses) — List of awesome university courses for learning Computer Science
 * [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/)
-* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
-* [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for software engineers
-* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) - awesome places to learn and/or practice algorithms
-    * Data Structure Visualizations - [cs.usfca.edu](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), [visualgo](https://visualgo.net/en)
-* [selfcare.tech](http://selfcare.tech/) - self-care resources for developers & others
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) — A collection of (mostly) technical things every software developer should know
+* [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) — Podcasts for software engineers
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) — awesome places to learn and/or practice algorithms
+    * Data Structure Visualizations — [cs.usfca.edu](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), [visualgo](https://visualgo.net/en)
+* [selfcare.tech](http://selfcare.tech/) — self-care resources for developers & others
 
 <br>
 
@@ -171,8 +171,9 @@ Given links are sorted by votes, do explore other tabs as well
 #### <a name="cheatsheets"></a>Cheatsheets
 
 * [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
-* [learnxinyminutes](https://learnxinyminutes.com/) - whirlwind tour of programming languages, concepts and tools
-* [tldr](https://github.com/tldr-pages/tldr) - simplified and community-driven man pages
+* [learnxinyminutes](https://learnxinyminutes.com/) — whirlwind tour of programming languages, concepts and tools
+* [tldr](https://github.com/tldr-pages/tldr) — simplified and community-driven man pages
+* [devhints](https://devhints.io/)
 
 <br>
 
@@ -189,43 +190,41 @@ Given links are sorted by votes, do explore other tabs as well
 
 #### <a name="ide-and-text-editors"></a>IDE and Text Editors
 
-* [IDEs for various languages by Jetbrains](https://www.jetbrains.com/products.html#type=ide) - has both community and enterprise versions
-* [KDevelop](https://www.kdevelop.org/) - cross-platform IDE for C, C++, Python, QML/JavaScript and PHP
-* [Vim](https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md)
-* [Emacs](https://github.com/emacs-tw/awesome-emacs)
-* [Geany](https://www.geany.org/)
-* [Gedit](https://wiki.gnome.org/Apps/Gedit)
-* [Sublime Text](https://www.sublimetext.com/)
+* [IDEs for various languages by Jetbrains](https://www.jetbrains.com/products.html#type=ide) — has both community and enterprise versions
+* [KDevelop](https://www.kdevelop.org/) — cross-platform IDE for C, C++, Python, QML/JavaScript and PHP
+* [VSCodium](https://vscodium.com/) — community-driven, freely-licensed binary distribution of VSCode
+* [Vim](https://github.com/vim/vim), [Emacs](https://www.gnu.org/software/emacs/), [Geany](https://www.geany.org/), [Gedit](https://wiki.gnome.org/Apps/Gedit), [Sublime Text](https://www.sublimetext.com/) — **text editors** with support for syntax highlighting and other features
 
 <br>
 
 #### <a name="version-control"></a>Version control
 
-* [git](https://git-scm.com/) - open source distributed version control system
-    * Collaborate: [github](https://github.com/), [gitlab](https://about.gitlab.com/), [bitbucket](https://bitbucket.org/)
+* [git](https://git-scm.com/) — open source distributed version control system
+    * Collaborate: [github](https://github.com/), [gitlab](https://about.gitlab.com/)
     * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
     * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
-* [wikipedia - Version control](https://en.wikipedia.org/wiki/Version_control)
+* [wikipedia — Version control](https://en.wikipedia.org/wiki/Version_control)
 
 <br>
 
 #### <a name="miscellaneous"></a>Miscellaneous
 
-* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - curated list of tools, resources and workflow tips
-* [free-for-dev](https://github.com/ripienaar/free-for-dev) - list of SaaS, PaaS and IaaS offerings
-* [Jupyter](https://jupyter.org/) - interactive computing across dozens of programming languages
-* [Compiler Explorer](https://godbolt.org/) - interactive compiler, code to asm for various programming languages and platforms
+* [Awesome Dev Env](https://github.com/jondot/awesome-devenv) — curated list of tools, resources and workflow tips
+* [free-for-dev](https://github.com/ripienaar/free-for-dev) — list of SaaS, PaaS and IaaS offerings
+* [Jupyter](https://jupyter.org/) — interactive computing across dozens of programming languages
+* [Compiler Explorer](https://godbolt.org/) — interactive compiler, code to asm for various programming languages and platforms
 
 <br>
 
 ## <a name="forums"></a>Forums
 
-Read instructions provided by respective forums before asking a question. Try solving it yourself before asking - searching online, reading manuals, ask a colleague, etc. See also [how to ask smart-questions](http://catb.org/~esr/faqs/smart-questions.html#before)
+Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, reading manuals, ask a colleague, etc. See also [how to ask smart-questions](http://catb.org/~esr/faqs/smart-questions.html#before)
 
-* [/r/programming/](https://www.reddit.com/r/programming/) - for discussion and news about computer programming
-* [stackoverflow](https://stackoverflow.com/) and [stackexchange](https://stackexchange.com/sites) - for Q&As
-* [/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/) - for Q&As and discussion
+* [/r/programming/](https://www.reddit.com/r/programming/) — for discussion and news about computer programming
+* [stackoverflow](https://stackoverflow.com/) and [stackexchange](https://stackexchange.com/sites) — for Q&As
+* [/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/) — for Q&As and discussion
+* [lobste.rs](https://lobste.rs/) — computing-focused community centered around link aggregation and discussion
 * [/r/ProgrammerTIL/](https://www.reddit.com/r/ProgrammerTIL/)
 * [/r/webdev/](https://www.reddit.com/r/webdev/)
-* [/r/cscareerquestions/](https://www.reddit.com/r/cscareerquestions/) - discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields
+* [/r/cscareerquestions/](https://www.reddit.com/r/cscareerquestions/) — discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields
 
