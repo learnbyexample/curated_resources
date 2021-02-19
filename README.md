@@ -1,5 +1,7 @@
 Curated lists for programming, books, movies, music, games, etc
 
+:information_source: :information_source: The resource lists are also available as a searchable collection at: https://learnbyexample.github.io/curated_resources/
+
 :hash: **Table of Contents**
 
 * [Learning stuff](#learning-stuff)
@@ -66,14 +68,12 @@ Curated lists for programming, books, movies, music, games, etc
 
 * Please open an issue for typos/bugs/suggestions/etc
     * Even for pull requests, open an issue for discussion before submitting PRs
-    * or [gitter group chat](https://gitter.im/learnbyexample/scripting_course) for discussion as well as for help/mentorship
 * Share the repo with friends/colleagues, on social media, etc to help reach other learners
-* In case you need to reach me, use [gitter private chat](https://gitter.im/learnbyexample)
-    * or mail me at `echo 'bGVhcm5ieWV4YW1wbGUubmV0QGdtYWlsLmNvbQo=' | base64 --decode`
+* In case you need to reach me, mail me at `echo 'bGVhcm5ieWV4YW1wbGUubmV0QGdtYWlsLmNvbQo=' | base64 --decode` or DM via https://twitter.com/learn_byexample
 
 <br>
 
 # <a name="license"></a>License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under a [Creative Commons Zero v1.0 Universal License](./LICENSE)
 

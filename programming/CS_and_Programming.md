@@ -1,92 +1,49 @@
-# <a name="cs-and-programming"></a>CS and Programming
-
-:hash: **Table of Contents**
-
-* [Where to begin](#where-to-begin)
-    * [Computer Science](#computer-science)
-    * [Python](#python)
-    * [Webdev](#webdev)
-    * [Programming for kids](#programming-for-kids)
-* [Guides](#guides)
-    * [Stories](#stories)
-* [FAQs and Tips](#faqs-and-tips)
-    * [Squash those pesky bugs](#squash-those-pesky-bugs)
-    * [FAQs on stackexchange](#faqs-on-stackexchange)
-* [Practice makes perfect](#practice-makes-perfect)
-    * [Practice sites](#practice-sites)
-* [Resource lists](#resource-lists)
-    * [Books](#books)
-    * [Cheatsheets](#cheatsheets)
-    * [Style guides](#style-guides)
-* [Toolset](#toolset)
-    * [IDE and Text Editors](#ide-and-text-editors)
-    * [Version control](#version-control)
-    * [Miscellaneous](#miscellaneous)
-* [Forums](#forums)
-
-<br>
-
-Mostly based on good learning resource links I've come across on forums like reddit/news.ycombinator/github/twitter/etc
+# Computer Science and Programming
 
 Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer_science) and [Computer programming](https://en.wikipedia.org/wiki/Computer_programming) and other stuff like tools, self care, etc
 
-<br>
+## Where to begin
 
-## <a name="where-to-begin"></a>Where to begin
-
-<br>
-
-#### <a name="computer-science"></a>Computer Science
+### Computer Science
 
 * [CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) — free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
-    * [videos playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
+    * [video playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
     * [course details on Harvard website](https://cs50.harvard.edu/)
 * [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — free course on edx, self paced
     * [course details on MIT website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [Stanford CS106A: Programming Methodology](https://see.stanford.edu/Course/CS106A) — Java
-<br>
 
-#### <a name="python"></a>Python
+### Python
 
 * [How to Think Like a Computer Scientist: Think Python 2e](https://greenteapress.com/wp/think-python-2e/) — gives you a solid foundation to programming, teaches debugging right the beginning, includes case studies, exercises, etc
     * [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/static/thinkcspy/index.html) — inspired by Think Python
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/) — teaches you programming concepts and then shows how to automate everyday problems
 * See my [Python resources for everybody](https://learnbyexample.github.io/py_resources/) collection for comprehensive resources on various topics
 
-<br>
-
-#### <a name="webdev"></a>Webdev
+### Webdev
 
 * [khanacademy](https://www.khanacademy.org/computing/computer-programming)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [theodinproject](https://www.theodinproject.com/home)
 
-<br>
-
-#### <a name="programming-for-kids"></a>Programming for kids
+### Programming for kids
 
 * [Scratch Programming Playground](https://inventwithscratch.com/book/)
 * [list of resources for teaching kids programming](https://github.com/HollyAdele/awesome-programming-for-kids)
 
-<br>
-
-## <a name="guides"></a>Guides
+## Guides
 
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * learn-anything mind maps: [computer science](https://learn-anything.xyz/computer-science) and [programming](https://learn-anything.xyz/programming)
 
-<br>
-
-#### <a name="stories"></a>Stories
+### Stories
 
 * [How I learned to program](https://danluu.com/learning-to-program/)
 * [A noob programmer's opinion on how to learn to code](https://www.reddit.com/r/learnprogramming/comments/701n1l/a_noob_programmers_opinion_on_how_to_learn_to_code/)
 
-<br>
-
-## <a name="faqs-and-tips"></a>FAQs and Tips
+## FAQs and Tips
 
 * [What is 'foo', 'bar' and 'baz' I see in code examples?](https://stackoverflow.com/questions/4868904/what-is-the-origin-of-foo-and-bar)
 * [What is XY problem?](https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem)
@@ -96,9 +53,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
 * [Things you might encounter in your programming journey](https://www.techinasia.com/talk/27-things-started-programming)
 
-<br>
-
-#### <a name="squash-those-pesky-bugs"></a>Squash those pesky bugs
+### Squash those pesky bugs
 
 * [english.stackexchange: Origin of "bug" in reference to software](https://english.stackexchange.com/questions/40934/origin-of-bug-in-reference-to-software)
 * [Rubber duck debugging](https://rubberduckdebugging.com/)
@@ -108,9 +63,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [Debugging guide](https://uchicago-cs.github.io/debugging-guide/)
 * [stackoverflow: bug stories](https://stackoverflow.com/questions/169713/whats-the-toughest-bug-you-ever-found-and-fixed)
 
-<br>
-
-#### <a name="faqs-on-stackexchange"></a>FAQs on stackexchange
+### FAQs on stackexchange
 
 Given links are sorted by votes, do explore other tabs as well
 
@@ -119,19 +72,15 @@ Given links are sorted by votes, do explore other tabs as well
 * [cstheory.stackexchange](https://cstheory.stackexchange.com/questions?sort=votes)
 * [cseducators.stackexchange](https://cseducators.stackexchange.com/questions?sort=votes)
 
-<br>
+## Practice makes perfect
 
-## <a name="practice-makes-perfect"></a>Practice makes perfect
-
-* [what to code?](https://www.reddit.com/r/learnprogramming/comments/53msv6/the_only_reason_i_struggle_motivating_myself_to/)
-* [learning by converting code from one language to another](https://www.reddit.com/r/learnpython/comments/5503pa/code_conversion_probably_the_best_tool_any_level/)
 * [I know how to program, but I don't know what to program](https://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program)
+* [Learning by converting code from one language to another](https://www.reddit.com/r/learnpython/comments/5503pa/code_conversion_probably_the_best_tool_any_level/)
 * [Write a command-line utility](https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/)
 * [Curated list of Project Based Learning](https://github.com/tuvtran/project-based-learning)
+* [What to code?](https://www.reddit.com/r/learnprogramming/comments/53msv6/the_only_reason_i_struggle_motivating_myself_to/)
 
-<br>
-
-#### <a name="practice-sites"></a>Practice sites
+### Practice sites
 
 * [Exercism](https://exercism.io), [Edabit](https://edabit.com) — these are all beginner friendly and difficulty levels are marked
 * [Codewars](https://www.codewars.com/), [Adventofcode](https://adventofcode.com/), [Projecteuler](https://projecteuler.net/) — more challenging
@@ -139,9 +88,7 @@ Given links are sorted by votes, do explore other tabs as well
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer) — not active currently, but there's plenty of past challenges with discussions
 * [list of Logic and Coding Games](https://github.com/dargaCode/LogicAndCodingGames)
 
-<br>
-
-## <a name="resource-lists"></a>Resource lists
+## Resource lists
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) — A curated list of awesome awesomeness
 * [awesome](https://github.com/sindresorhus/awesome) — Curated list of awesome lists
@@ -155,9 +102,7 @@ Given links are sorted by votes, do explore other tabs as well
     * Data Structure Visualizations — [cs.usfca.edu](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), [visualgo](https://visualgo.net/en)
 * [selfcare.tech](http://selfcare.tech/) — self-care resources for developers & others
 
-<br>
-
-#### <a name="books"></a>Books
+### Books
 
 * [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
 * [Programming book list by danluu](https://danluu.com/programming-books/)
@@ -166,38 +111,28 @@ Given links are sorted by votes, do explore other tabs as well
 * [Programming Language Theory books and resources](https://github.com/steshaw/plt)
 * [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 
-<br>
-
-#### <a name="cheatsheets"></a>Cheatsheets
+### Cheatsheets
 
 * [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 * [learnxinyminutes](https://learnxinyminutes.com/) — whirlwind tour of programming languages, concepts and tools
 * [tldr](https://github.com/tldr-pages/tldr) — simplified and community-driven man pages
 * [devhints](https://devhints.io/)
 
-<br>
-
-#### <a name="style-guides"></a>Style guides
+### Style guides
 
 * [awesome-guidelines](https://github.com/Kristories/awesome-guidelines)
 * [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
 
-<br>
+## Toolset
 
-## <a name="toolset"></a>Toolset
-
-<br>
-
-#### <a name="ide-and-text-editors"></a>IDE and Text Editors
+### IDE and Text Editors
 
 * [IDEs for various languages by Jetbrains](https://www.jetbrains.com/products.html#type=ide) — has both community and enterprise versions
 * [KDevelop](https://www.kdevelop.org/) — cross-platform IDE for C, C++, Python, QML/JavaScript and PHP
 * [VSCodium](https://vscodium.com/) — community-driven, freely-licensed binary distribution of VSCode
 * [Vim](https://github.com/vim/vim), [Emacs](https://www.gnu.org/software/emacs/), [Geany](https://www.geany.org/), [Gedit](https://wiki.gnome.org/Apps/Gedit), [Sublime Text](https://www.sublimetext.com/) — **text editors** with support for syntax highlighting and other features
 
-<br>
-
-#### <a name="version-control"></a>Version control
+### Version control
 
 * [git](https://git-scm.com/) — open source distributed version control system
     * Collaborate: [github](https://github.com/), [gitlab](https://about.gitlab.com/)
@@ -205,24 +140,20 @@ Given links are sorted by votes, do explore other tabs as well
     * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 * [wikipedia: Version control](https://en.wikipedia.org/wiki/Version_control)
 
-<br>
-
-#### <a name="miscellaneous"></a>Miscellaneous
+### Miscellaneous
 
 * [Awesome Dev Env](https://github.com/jondot/awesome-devenv) — curated list of tools, resources and workflow tips
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) — list of SaaS, PaaS and IaaS offerings
 * [Jupyter](https://jupyter.org/) — interactive computing across dozens of programming languages
 * [Compiler Explorer](https://godbolt.org/) — interactive compiler, code to asm for various programming languages and platforms
 
-<br>
-
-## <a name="forums"></a>Forums
+## Forums
 
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, reading manuals, ask a colleague, etc. See also [how to ask smart-questions](http://catb.org/~esr/faqs/smart-questions.html#before)
 
 * [/r/programming/](https://www.reddit.com/r/programming/) — for discussion and news about computer programming
 * [stackoverflow](https://stackoverflow.com/) and [stackexchange](https://stackexchange.com/sites) — for Q&As
-* [/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/) — for Q&As and discussion
+* [/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/) — for Q&As and discussion, beginner friendly
 * [lobste.rs](https://lobste.rs/) — computing-focused community centered around link aggregation and discussion
 * [/r/ProgrammerTIL/](https://www.reddit.com/r/ProgrammerTIL/)
 * [/r/webdev/](https://www.reddit.com/r/webdev/)
