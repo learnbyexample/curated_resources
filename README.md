@@ -1,6 +1,12 @@
-Curated lists for programming, books, movies, music, games, etc
+<br>
+
+---
 
 :information_source: :information_source: The resource lists are also available as a searchable collection at: https://learnbyexample.github.io/curated_resources/
+
+---
+
+<br><br>
 
 :hash: **Table of Contents**
 
@@ -17,14 +23,14 @@ Curated lists for programming, books, movies, music, games, etc
 
 # <a name="learning-stuff"></a>Learning stuff
 
-* [CS and Programming](./programming/CS_and_Programming.md)
-* [Python](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
-    * [Python for Maths](https://learnbyexample.github.io/curated-resources/python-for-maths/)
-* [Linux](https://github.com/learnbyexample/scripting_course/blob/master/Linux_curated_resources.md)
-* [Vim](https://github.com/learnbyexample/scripting_course/blob/master/Vim_curated_resources.md)
+* [Computer Science and Programming](https://learnbyexample.github.io/curated_resources/cs_programming.html)
+* [Python](https://learnbyexample.github.io/py_resources/)
+    * [Python for Maths](https://learnbyexample.github.io/python-for-maths/)
+* [Linux](https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html)
+* [Vim](https://learnbyexample.github.io/curated_resources/vim.html)
 * [Science subjects](./Education.md)
 * [Android](./programming/Android.md)
-* [Perl](https://github.com/learnbyexample/scripting_course/blob/master/Perl_curated_resources.md)
+* [Perl](https://learnbyexample.github.io/curated_resources/perl.html)
 
 <br>
 
