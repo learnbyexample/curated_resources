@@ -31,6 +31,7 @@
 * [Science subjects](./Education.md)
 * [Android](./programming/Android.md)
 * [Perl](https://learnbyexample.github.io/curated_resources/perl.html)
+* [Git and GitHub](./programming/git_and_github.md)
 
 <br>
 
