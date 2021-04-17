@@ -79,9 +79,8 @@
 * [Game about Squares](https://play.google.com/store/apps/details?id=com.gameaboutsquares.free)
 * [Bounce Out](https://play.google.com/store/apps/details?id=com.gmail.mgdicks.Bounce_Out)
 * [0h h1](https://play.google.com/store/apps/details?id=com.q42.ohhi)
-* [Lightbot : Code Hour](https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc)
+* [Lightbot: Code Hour](https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc)
 * [Coddy: World on Algorithm](https://play.google.com/store/apps/details?id=com.SimplyProjects.CoddyFree)
-* [Square Tic Tac Toe](https://play.google.com/store/apps/details?id=me.squaretictactoe.squaretictactoe) - bias note: my own app
 
 **Website**
 
