@@ -131,6 +131,7 @@ Given links are sorted by votes, do explore other tabs as well
 * [KDevelop](https://www.kdevelop.org/) — cross-platform IDE for C, C++, Python, QML/JavaScript and PHP
 * [VSCodium](https://vscodium.com/) — community-driven, freely-licensed binary distribution of VSCode
 * [Vim](https://github.com/vim/vim), [Emacs](https://www.gnu.org/software/emacs/), [Geany](https://www.geany.org/), [Gedit](https://wiki.gnome.org/Apps/Gedit), [Sublime Text](https://www.sublimetext.com/) — **text editors** with support for syntax highlighting and other features
+* [Awesome Online IDE](https://github.com/styfle/awesome-online-ide) — list of awesome online development environments
 
 ### Version control
 
