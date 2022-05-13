@@ -7,24 +7,25 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 ### Computer Science
 
 * [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) — free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
-    * [video playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
+    * [video playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL)
     * [course details on Harvard website](https://cs50.harvard.edu/)
 * [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — free course on edx, self paced
-    * [course details on MIT website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+    * [course details on MIT website](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [Stanford CS106A: Programming Methodology](https://see.stanford.edu/Course/CS106A) — Java and good software engineering principles
 
 ### Python
 
 * [How to Think Like a Computer Scientist: Think Python 2e](https://greenteapress.com/wp/think-python-2e/) — gives you a solid foundation to programming, teaches debugging right the beginning, includes case studies, exercises, etc
-    * [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html) — inspired by Think Python
+    * [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html) — inspired by Think Python
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/) — teaches you programming concepts and then shows how to automate everyday problems
 * [Python resources for everybody](https://learnbyexample.github.io/py_resources/) — my collection of comprehensive resources for Python
 
 ### Webdev
 
-* [Khan Academy](https://www.khanacademy.org/computing/computer-programming) — HTML/CSS, JavaScript, SQL, jQuery, etc
 * [freeCodeCamp](https://www.freecodecamp.org) — JavaScript, Responsive Web Design, Libraries, etc
 * [The Odin Project](https://www.theodinproject.com) — HTML/CSS, JavaScript, Ruby on Rails, Node.js, etc
+* [CS50's Web Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu) — design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap
+* [Codepip](https://codepip.com/) — learn web development by playing games
 
 ### Programming for kids
 
@@ -66,7 +67,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 ### FAQ on stackexchange
 
-Given links are sorted by votes, do explore other tabs as well
+Given links are sorted by votes, do explore other tabs as well.
 
 * [softwareengineering.stackexchange](https://softwareengineering.stackexchange.com/questions?sort=votes)
 * [cs.stackexchange](https://cs.stackexchange.com/questions?sort=votes)
@@ -76,15 +77,17 @@ Given links are sorted by votes, do explore other tabs as well
 ## Practice makes perfect
 
 * [I know how to program, but I don't know what to program](https://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program)
-* [Curated list of Project Based Learning](https://github.com/tuvtran/project-based-learning)
+* [Curated list of Project Based Learning](https://github.com/practical-tutorials/project-based-learning) — web applications, bots, data science, machine learning, etc
+* [Build your own X](https://github.com/codecrafters-io/build-your-own-x) — cli, database, neural network, OS, text editor, etc
 * [Learning by converting code from one language to another](https://www.reddit.com/r/learnpython/comments/5503pa/code_conversion_probably_the_best_tool_any_level/)
 * [Write a command-line utility](https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/)
 
 ### Practice sites
 
-* [Exercism](https://exercism.io), [Edabit](https://edabit.com) — these are all beginner friendly and difficulty levels are marked
+* [Exercism](https://exercism.org/), [Edabit](https://edabit.com) — these are all beginner friendly and difficulty levels are marked
 * [Codewars](https://www.codewars.com/), [Adventofcode](https://adventofcode.com/), [Projecteuler](https://projecteuler.net/) — more challenging
 * [Checkio](https://checkio.org/), [Codingame](https://www.codingame.com/start), [Codecombat](https://codecombat.com/) — gaming based challenges
+* [Interactive learning tools](https://markodenic.com/interactive-learning-tools/) — CSS, JavaScript, TypeScript, React, Python, Git, SQL, Regex and more
 * [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer) — not active currently, but there's plenty of past challenges with discussions
 * [List of Logic and Coding Games](https://github.com/dargaCode/LogicAndCodingGames)
 
@@ -94,10 +97,11 @@ Given links are sorted by votes, do explore other tabs as well
 * [awesome](https://github.com/sindresorhus/awesome) — Curated list of awesome lists
     * [AwesomeSearch](https://awesomelists.top/) — search awesome lists
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) — annotated list of resources
-* [awesome-courses](https://github.com/prakhar1989/awesome-courses) — List of awesome university courses for learning Computer Science
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses) — List of awesome university courses for learning Computer Science
 * [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) — A collection of (mostly) technical things every software developer should know
-* [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) — Podcasts for software engineers
+* [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) — lists of technical interview questions
+* [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) — Podcasts for software engineers
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) — awesome places to learn and/or practice algorithms
     * Data Structure Visualizations — [cs.usfca.edu](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), [visualgo](https://visualgo.net/en)
 * [selfcare.tech](https://selfcare.tech/) — self-care resources for developers & others
@@ -109,11 +113,11 @@ Given links are sorted by votes, do explore other tabs as well
 * [What Books Should Everyone Read?](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read)
 * [Books every software engineer should read](https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to/)
 * [Programming Language Theory books and resources](https://github.com/steshaw/plt)
-* [Free programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html)
+* [Free programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-langs.html)
 
 ### Cheatsheets
 
-* [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+* [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) — Platforms, Programming Languages, Editors, Databases, etc
 * [learnxinyminutes](https://learnxinyminutes.com/) — whirlwind tour of programming languages, concepts and tools
 * [tldr-pages](https://github.com/tldr-pages/tldr) — collaborative cheatsheets for console commands
 * [devhints](https://devhints.io/) — cheatsheets for various programming languages and tools
