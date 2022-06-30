@@ -7,14 +7,19 @@
 
 * [Pro Git book](https://git-scm.com/book/en/v2) — free to read online
 * [theodinproject: introduction to Git](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-git) — this includes assignments on reading (like the 'Pro Git' book linked above), watching videos, etc
-* [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) — part of MIT: The Missing Semester of Your CS Education
-* [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+* [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) — part of "The Missing Semester of Your CS Education" course by MIT
 * [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) — what to do when things go wrong
+* [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+
+### Interactive playgrounds
+
 * [Git Exercises](https://gitexercises.fracz.com/) — learn and practice Git
+* [Learn Git Branching](https://learngitbranching.js.org/) — git repository visualizer, sandbox, and a series of educational tutorials and challenges
+* [Visualizing Git Concepts](https://onlywei.github.io/explain-git-with-d3/) — sandbox playgrounds to help you understand some basic git concepts visually
 
 ## GitHub
 
-* [GitHub - Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) — a chapter from 'Pro Git' book
+* [GitHub Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) — a chapter from 'Pro Git' book
 * [Git and GitHub Handbook](https://guides.github.com/introduction/git-handbook/)
     * [GitHub video guides](https://youtube.com/githubguides)
 * [Build a Stunning README For Your GitHub Profile](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)

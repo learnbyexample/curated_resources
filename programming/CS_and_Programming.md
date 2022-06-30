@@ -15,9 +15,9 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 ### Python
 
-* [How to Think Like a Computer Scientist: Think Python 2e](https://greenteapress.com/wp/think-python-2e/) — gives you a solid foundation to programming, teaches debugging right the beginning, includes case studies, exercises, etc
-    * [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html) — inspired by Think Python
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/) — teaches you programming concepts and then shows how to automate everyday problems
+* [Python Programming](https://programming-22.mooc.fi/) — provided by University of Helsinki, introduction to Programming with Python, includes both text and video materials
+* [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html) — gives you a solid foundation to programming, teaches debugging right the beginning, includes case studies, exercises, etc
+* [The Python Coding Book](https://thepythoncodingbook.com/) — friendly, relaxed programming book for beginners
 * [Python resources for everybody](https://learnbyexample.github.io/py_resources/) — my collection of comprehensive resources for Python
 
 ### Webdev
@@ -60,6 +60,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [english.stackexchange: Origin of "bug" in reference to software](https://english.stackexchange.com/questions/40934/origin-of-bug-in-reference-to-software)
 * [Rubber duck debugging](https://rubberduckdebugging.com/)
 * [What does debugging a program look like?](https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/)
+* [Debugging code is like detective work](https://thepythoncodingbook.com/2022/04/17/debugging-python-code-is-like-detective-work-lets-investigate/)
 * [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
 * [Problem solving skills](https://ryanstutorials.net/problem-solving-skills/)
 * [Debugging guide](https://uchicago-cs.github.io/debugging-guide/)
