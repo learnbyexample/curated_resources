@@ -51,6 +51,7 @@
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) 
 * [Open source society](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science
 * [MOOC courses that provide free certificate of accomplishments upon completion](https://github.com/prahladyeri/List_Of_Free_MOOC)
+* [Explore kandi](https://kandi.openweaver.com/) - Jumpstart your Application Development - Find, review, and download reusable Libraries, Code Snippets, Cloud APIs from over 430 million Knowledge Items across all programming languages.
 
 <br>
 
