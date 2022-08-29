@@ -51,6 +51,7 @@
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) 
 * [Open source society](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science
 * [MOOC courses that provide free certificate of accomplishments upon completion](https://github.com/prahladyeri/List_Of_Free_MOOC)
+* [Explore Python](https://kandi.openweaver.com/explore/python) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 
 <br>
 
