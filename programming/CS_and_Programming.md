@@ -25,12 +25,14 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [freeCodeCamp](https://www.freecodecamp.org) — JavaScript, Responsive Web Design, Libraries, etc
 * [The Odin Project](https://www.theodinproject.com) — HTML/CSS, JavaScript, Ruby on Rails, Node.js, etc
 * [CS50's Web Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu) — design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap
+* [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss) and [JavaScript](https://scrimba.com/learn/learnjavascript) — learn to build your very first web pages and the basics of JavaScript by solving interactive coding challenges and building fun projects
 * [Codepip](https://codepip.com/) — learn web development by playing games
 
 ### Programming for kids
 
 * [Scratch Programming Playground](https://inventwithscratch.com/book3/) — graphical programming environment
 * [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) — curated list of resources for teaching kids programming
+* [Book for parents and kids](https://github.com/jackdoe/programming-for-kids/blob/master/book.md) — for parents who know how to code and for kids who don't, but especially for parents and kids who can spend 30 minutes per day, every day
 
 ## Guides
 
