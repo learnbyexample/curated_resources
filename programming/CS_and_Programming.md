@@ -11,7 +11,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
     * [course details on Harvard website](https://cs50.harvard.edu/)
 * [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — free course on edx, self paced
     * [course details on MIT website](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* [Stanford CS106A: Programming Methodology](https://see.stanford.edu/Course/CS106A) — Java and good software engineering principles
+* [Learn Computer Science Online](https://www.learncs.online/) — Java and Kotlin, interactive, includes exercises and discussion forum
 
 ### Python
 
