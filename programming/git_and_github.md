@@ -10,6 +10,10 @@
 * [theodinproject: introduction to Git](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-git) — this includes assignments on reading (like the 'Pro Git' book linked above), watching videos, etc
 * [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) — part of "The Missing Semester of Your CS Education" course by MIT
 * [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) — what to do when things go wrong
+* [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) — best command line Git tools, techniques, tips, tricks, and tactical tidbits
+
+### Cheatsheets
+
 * [Visual Git Reference for the most common commands](https://marklodato.github.io/visual-git-guide/index-en.html)
 * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
@@ -19,6 +23,11 @@
 * [Learn Git Branching](https://learngitbranching.js.org/) — git repository visualizer, sandbox, and a series of educational tutorials and challenges
 * [Visualizing Git Concepts](https://onlywei.github.io/explain-git-with-d3/) — sandbox playgrounds to help you understand some basic git concepts visually
 * [GitHub Minesweeper](https://profy.dev/project/github-minesweeper) — Learn a professional Git workflow with a bot as your teammate. For free
+
+### Difficulties
+
+* [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
+* [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 
 ## GitHub
 
@@ -40,6 +49,6 @@
 
 ## Other guides
 
-* [/r/learnprogramming/ discussion on Git and GitHub](https://www.reddit.com/r/learnprogramming/comments/m4479h/gitgithub_tutorial/)
+* [/r/learnprogramming/ discussion on Git and GitHub](https://old.reddit.com/r/learnprogramming/comments/m4479h/gitgithub_tutorial/)
 * [Git & GitHub guide by /u/Fateen45](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 
