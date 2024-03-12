@@ -6,16 +6,15 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 ### Computer Science
 
-* [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) — free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
-    * [video playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4)
-    * [course details on Harvard website](https://cs50.harvard.edu/)
-* [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) — free course on edx, self paced
+* [CS50: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) — free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
+    * [video playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
+* [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) — free course on edx, self paced
     * [course details on MIT website](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [Learn Computer Science Online](https://www.learncs.online/) — Java and Kotlin, interactive, includes exercises and discussion forum
 
 ### Python
 
-* [Python Programming](https://programming-22.mooc.fi/) — provided by University of Helsinki, introduction to Programming with Python, includes both text and video materials
+* [Python Programming](https://programming-24.mooc.fi/) — provided by University of Helsinki, introduction to Programming with Python, includes both text and video materials
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) — project based interactive course
 * [The Python Coding Book](https://thepythoncodingbook.com/) — friendly, relaxed programming book for beginners
 * [Python resources for everybody](https://learnbyexample.github.io/py_resources/) — my collection of comprehensive resources for Python
@@ -103,6 +102,7 @@ Given links are sorted by votes, do explore other tabs as well.
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses) — List of awesome university courses for learning Computer Science
 * [List of Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses/)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) — A collection of (mostly) technical things every software developer should know
+* [Professional Programming](https://github.com/charlax/professional-programming) — collection of learning resources for curious software engineers
 * [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) — lists of technical interview questions
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) — Podcasts for software engineers
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) — awesome places to learn and/or practice algorithms
