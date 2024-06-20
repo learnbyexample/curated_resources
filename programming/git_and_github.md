@@ -7,6 +7,7 @@
 
 * [Git In Two Minutes (For A Solo Developer)](https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
 * [Pro Git book](https://git-scm.com/book/en/v2) — free to read online
+* [How Git Works](https://wizardzines.com/zines/git/)
 * [theodinproject: introduction to Git](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-git) — this includes assignments on reading (like the 'Pro Git' book linked above), watching videos, etc
 * [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) — part of "The Missing Semester of Your CS Education" course by MIT
 * [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) — what to do when things go wrong
@@ -15,6 +16,7 @@
 ### Cheatsheets
 
 * [Visual Git Reference for the most common commands](https://marklodato.github.io/visual-git-guide/index-en.html)
+* [Git Cheat Sheet (pdf)](https://wizardzines.com/git-cheat-sheet.pdf)
 * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 ### Interactive playgrounds
