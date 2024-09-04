@@ -15,6 +15,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 ### Python
 
 * [Python Programming](https://programming-24.mooc.fi/) — provided by University of Helsinki, introduction to Programming with Python, includes both text and video materials
+* [Think Python](https://allendowney.github.io/ThinkPython/) — gives you a solid foundation to programming, teaches debugging right the beginning, interesting exercises, etc
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) — project based interactive course
 * [The Python Coding Book](https://thepythoncodingbook.com/) — friendly, relaxed programming book for beginners
 * [Python resources for everybody](https://learnbyexample.github.io/py_resources/) — my collection of comprehensive resources for Python
@@ -24,7 +25,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [freeCodeCamp](https://www.freecodecamp.org) — JavaScript, Responsive Web Design, Libraries, etc
 * [The Odin Project](https://www.theodinproject.com) — HTML/CSS, JavaScript, Ruby on Rails, Node.js, etc
 * [CS50's Web Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu) — design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap
-* [Learn HTML and CSS](https://scrimba.com/learn/htmlandcss) and [JavaScript](https://scrimba.com/learn/learnjavascript) — learn to build your very first web pages and the basics of JavaScript by solving interactive coding challenges and building fun projects
+* [Learn HTML and CSS](https://v2.scrimba.com/learn-html-and-css-c0p) and [JavaScript](https://v2.scrimba.com/learn-javascript-c0v) — learn to build your very first web pages and the basics of JavaScript by solving interactive coding challenges and building fun projects
 * [Codepip](https://codepip.com/) — learn web development by playing games
 
 ### Programming for kids
@@ -137,7 +138,7 @@ Given links are sorted by votes, do explore other tabs as well.
 * [IDEs for various languages by Jetbrains](https://www.jetbrains.com/products/#type=ide) — has both community and enterprise versions
 * [KDevelop](https://www.kdevelop.org/) — cross-platform IDE for C, C++, Python, QML/JavaScript and PHP
 * [VSCodium](https://vscodium.com/) — community-driven, freely-licensed binary distribution of VSCode
-* [Vim](https://github.com/vim/vim), [Emacs](https://www.gnu.org/software/emacs/), [Geany](https://www.geany.org/), [Gedit](https://wiki.gnome.org/Apps/Gedit), [Sublime Text](https://www.sublimetext.com/) — **text editors** with support for syntax highlighting and other features
+* [Vim](https://github.com/vim/vim), [Emacs](https://www.gnu.org/software/emacs/), [Geany](https://www.geany.org/), [GNOME Text Editor](https://apps.gnome.org/TextEditor/), [Sublime Text](https://www.sublimetext.com/) — **text editors** with support for syntax highlighting and other features
 * [Awesome Online IDE](https://github.com/styfle/awesome-online-ide) — list of awesome online development environments
 
 ### Version control
