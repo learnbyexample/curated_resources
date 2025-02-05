@@ -7,17 +7,17 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 ### Computer Science
 
 * [CS50: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) — free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
-    * [video playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
+    * [video playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R)
 * [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) — free course on edx, self paced
     * [course details on MIT website](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [Learn Computer Science Online](https://www.learncs.online/) — Java and Kotlin, interactive, includes exercises and discussion forum
 
 ### Python
 
-* [Python Programming](https://programming-24.mooc.fi/) — provided by University of Helsinki, introduction to Programming with Python, includes both text and video materials
+* [Python Programming](https://programming-25.mooc.fi/) — provided by University of Helsinki, introduction to Programming with Python, includes both text and video materials
 * [Think Python](https://allendowney.github.io/ThinkPython/) — gives you a solid foundation to programming, teaches debugging right the beginning, interesting exercises, etc
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) — project based interactive course
-* [The Python Coding Book](https://thepythoncodingbook.com/) — friendly, relaxed programming book for beginners
+* [The Python Coding Book](https://thepythoncodingbook.com/book-outline/) — friendly, relaxed programming book for beginners
 * [Python resources for everybody](https://learnbyexample.github.io/py_resources/) — my collection of comprehensive resources for Python
 
 ### Webdev
@@ -25,7 +25,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [freeCodeCamp](https://www.freecodecamp.org) — JavaScript, Responsive Web Design, Libraries, etc
 * [The Odin Project](https://www.theodinproject.com) — HTML/CSS, JavaScript, Ruby on Rails, Node.js, etc
 * [CS50's Web Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu) — design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap
-* [Learn HTML and CSS](https://v2.scrimba.com/learn-html-and-css-c0p) and [JavaScript](https://v2.scrimba.com/learn-javascript-c0v) — learn to build your very first web pages and the basics of JavaScript by solving interactive coding challenges and building fun projects
+* [Learn HTML and CSS](https://scrimba.com/learn-html-and-css-c0p) and [JavaScript](https://scrimba.com/learn-javascript-c0v) — learn to build your very first web pages and the basics of JavaScript by solving interactive coding challenges and building fun projects
 * [Codepip](https://codepip.com/) — learn web development by playing games
 
 ### Programming for kids
@@ -55,7 +55,6 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [If you want to learn you'll need to be willing to look stupid](https://old.reddit.com/r/learnprogramming/comments/5jm97p/if_you_want_to_learn_youll_need_to_be_willing_to/)
 * [What is 'foo', 'bar' and 'baz' I see in code examples?](https://stackoverflow.com/q/4868904/4082052)
 * [What is XY problem?](https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem)
-* [What's this buzz about FizzBuzz?](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
 
 ### Squash those pesky bugs
 
@@ -82,16 +81,15 @@ Given links are sorted by votes, do explore other tabs as well.
 * [I know how to program, but I don't know what to program](https://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program)
 * [Curated list of Project Based Learning](https://github.com/practical-tutorials/project-based-learning) — web applications, bots, data science, machine learning, etc
 * [Build your own X](https://github.com/codecrafters-io/build-your-own-x) — cli, database, neural network, OS, text editor, etc
-* [Learning by converting code from one language to another](https://old.reddit.com/r/learnpython/comments/5503pa/code_conversion_probably_the_best_tool_any_level/)
 * [Write a command-line utility](https://old.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/)
 
 ### Practice sites
 
 * [Exercism](https://exercism.org/), [Edabit](https://edabit.com) — these are all beginner friendly and difficulty levels are marked
 * [Codewars](https://www.codewars.com/), [Adventofcode](https://adventofcode.com/), [Projecteuler](https://projecteuler.net/) — more challenging
-* [Checkio](https://checkio.org/), [Codingame](https://www.codingame.com/start), [Codecombat](https://codecombat.com/) — gaming based challenges
+* [Checkio](https://checkio.org/), [Codingame](https://www.codingame.com/start) — gaming based challenges
 * [Interactive learning tools](https://markodenic.com/interactive-learning-tools/) — CSS, JavaScript, TypeScript, React, Python, Git, SQL, Regex and more
-* [/r/dailyprogrammer](https://old.reddit.com/r/dailyprogrammer) — not active currently, but there's plenty of past challenges with discussions
+* [/r/dailyprogrammer](https://old.reddit.com/r/dailyprogrammer) — interesting challenges
 * [List of Logic and Coding Games](https://github.com/dargaCode/LogicAndCodingGames)
 
 ## Resource lists
@@ -125,6 +123,7 @@ Given links are sorted by votes, do explore other tabs as well.
 * [learnxinyminutes](https://learnxinyminutes.com/) — whirlwind tour of programming languages, concepts and tools
 * [tldr-pages](https://github.com/tldr-pages/tldr) — collaborative cheatsheets for console commands
 * [devhints](https://devhints.io/) — cheatsheets for various programming languages and tools
+* [Regex cheatsheets](https://learnbyexample.github.io/tags/cheatsheet/) — my blog posts on Python, JavaScript and GNU BRE/ERE
 
 ### Style guides
 
@@ -164,7 +163,6 @@ Read instructions provided by respective forums before asking a question. Try so
 * [stackoverflow](https://stackoverflow.com/) and [stackexchange](https://stackexchange.com/sites) — for Q&As
 * [/r/learnprogramming/](https://old.reddit.com/r/learnprogramming/) — for Q&As and discussion, beginner friendly
 * [lobste.rs](https://lobste.rs/) — computing-focused community centered around link aggregation and discussion
-* [/r/ProgrammerTIL/](https://old.reddit.com/r/ProgrammerTIL/)
 * [/r/webdev/](https://old.reddit.com/r/webdev/)
 * [/r/cscareerquestions/](https://old.reddit.com/r/cscareerquestions/) — discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields
 
