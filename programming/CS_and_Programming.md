@@ -137,7 +137,7 @@ Given links are sorted by votes, do explore other tabs as well.
 * [IDEs for various languages by Jetbrains](https://www.jetbrains.com/products/#type=ide) — has both community and enterprise versions
 * [KDevelop](https://www.kdevelop.org/) — cross-platform IDE for C, C++, Python, QML/JavaScript and PHP
 * [VSCodium](https://vscodium.com/) — community-driven, freely-licensed binary distribution of VSCode
-* [Vim](https://github.com/vim/vim), [Emacs](https://www.gnu.org/software/emacs/), [Geany](https://www.geany.org/), [GNOME Text Editor](https://apps.gnome.org/TextEditor/), [Sublime Text](https://www.sublimetext.com/) — **text editors** with support for syntax highlighting and other features
+* [Vim](https://github.com/vim/vim), [Emacs](https://www.gnu.org/software/emacs/), [Geany](https://www.geany.org/), [Kate](https://kate-editor.org/), [GNOME Text Editor](https://apps.gnome.org/TextEditor/), [Sublime Text](https://www.sublimetext.com/) — **text editors** with support for syntax highlighting and other features
 * [Awesome Online IDE](https://github.com/styfle/awesome-online-ide) — list of awesome online development environments
 
 ### Version control
@@ -157,7 +157,7 @@ Given links are sorted by votes, do explore other tabs as well.
 
 ## Forums
 
-Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, reading manuals, ask a colleague, etc. See also [how to ask smart-questions](http://catb.org/~esr/faqs/smart-questions.html#before).
+Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, reading manuals, ask a colleague, etc. See also [how to ask good questions](https://jvns.ca/blog/good-questions/).
 
 * [/r/programming/](https://old.reddit.com/r/programming/) — for discussion and news about computer programming
 * [stackoverflow](https://stackoverflow.com/) and [stackexchange](https://stackexchange.com/sites) — for Q&As
