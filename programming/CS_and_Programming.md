@@ -80,7 +80,9 @@ Given links are sorted by votes, do explore other tabs as well.
 
 * [I know how to program, but I don't know what to program](https://www.devdungeon.com/content/i-know-how-program-i-dont-know-what-program)
 * [Curated list of Project Based Learning](https://github.com/practical-tutorials/project-based-learning) — web applications, bots, data science, machine learning, etc
+* [Projectbook](https://projectbook.code.brettchalupa.com/) — collection of over 100 software project ideas for people looking to learn a given language or technology
 * [Build your own X](https://github.com/codecrafters-io/build-your-own-x) — cli, database, neural network, OS, text editor, etc
+* [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) — build them multiple times and learn new things each time
 * [Write a command-line utility](https://old.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/)
 
 ### Practice sites
@@ -165,4 +167,3 @@ Read instructions provided by respective forums before asking a question. Try so
 * [lobste.rs](https://lobste.rs/) — computing-focused community centered around link aggregation and discussion
 * [/r/webdev/](https://old.reddit.com/r/webdev/)
 * [/r/cscareerquestions/](https://old.reddit.com/r/cscareerquestions/) — discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields
-
