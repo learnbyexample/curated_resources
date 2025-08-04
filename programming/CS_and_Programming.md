@@ -6,10 +6,9 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 ### Computer Science
 
-* [CS50: Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) — free course on edx, self paced. Languages include C, Python, SQL, and JavaScript plus CSS and HTML
-    * [video playlist on youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R)
+* [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/) — teaches you how to solve problems, both with and without code, with an emphasis on correctness, design, and style. Languages include C, Python, SQL, HTML, CSS, and JavaScript
 * [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) — free course on edx, self paced
-    * [course details on MIT website](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+    * [course details on MIT website](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 * [Learn Computer Science Online](https://www.learncs.online/) — Java and Kotlin, interactive, includes exercises and discussion forum
 
 ### Python
@@ -24,7 +23,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 * [freeCodeCamp](https://www.freecodecamp.org) — JavaScript, Responsive Web Design, Libraries, etc
 * [The Odin Project](https://www.theodinproject.com) — HTML/CSS, JavaScript, Ruby on Rails, Node.js, etc
-* [CS50's Web Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu) — design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap
+* [CS50's Web Programming](https://cs50.harvard.edu/web/) — design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap
 * [Learn HTML and CSS](https://scrimba.com/learn-html-and-css-c0p) and [JavaScript](https://scrimba.com/learn-javascript-c0v) — learn to build your very first web pages and the basics of JavaScript by solving interactive coding challenges and building fun projects
 * [Codepip](https://codepip.com/) — learn web development by playing games
 
