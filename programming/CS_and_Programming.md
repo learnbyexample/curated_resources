@@ -107,6 +107,7 @@ Given links are sorted by votes, do explore other tabs as well.
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) — Podcasts for software engineers
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) — awesome places to learn and/or practice algorithms
     * Data Structure Visualizations — [cs.usfca.edu](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html), [visualgo](https://visualgo.net/en)
+    * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 * [selfcare.tech](https://selfcare.tech/) — self-care resources for developers & others
 
 ### Books
@@ -155,6 +156,8 @@ Given links are sorted by votes, do explore other tabs as well.
 * [Public APIs](https://github.com/public-apis/public-apis) — list of free APIs for use in software and web development
 * [Jupyter](https://jupyter.org/) — interactive computing across dozens of programming languages
 * [Compiler Explorer](https://godbolt.org/) — interactive compiler, code to asm for various programming languages and platforms
+* [Programming Languages: Application and Interpretation](https://www.plai.org/) — main ideas of programming languages
+* [Crypto 101](https://www.crypto101.io/) — introductory course on cryptography
 
 ## Forums
 
