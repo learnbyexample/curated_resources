@@ -12,11 +12,12 @@
 * [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) — part of "The Missing Semester of Your CS Education" course by MIT
 * [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) — what to do when things go wrong
 * [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) — best command line Git tools, techniques, tips, tricks, and tactical tidbits
-* [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) — what some of the perhaps obscure Git config settings do
+* [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git) — what some of the perhaps obscure Git config settings do
 
 ### Cheatsheets
 
 * [Visual Git Reference for the most common commands](https://marklodato.github.io/visual-git-guide/index-en.html)
+* [Git cheat sheet on the official site](https://git-scm.com/cheat-sheet) — commits, branches, history, restore, etc
 * [Git Cheat Sheet (pdf)](https://wizardzines.com/git-cheat-sheet.pdf)
 * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
@@ -55,4 +56,3 @@
 
 * [/r/learnprogramming/ discussion on Git and GitHub](https://old.reddit.com/r/learnprogramming/comments/m4479h/gitgithub_tutorial/)
 * [Git & GitHub guide by /u/Fateen45](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
-
