@@ -10,6 +10,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) — free course on edx, self paced
     * [course details on MIT website](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 * [Learn Computer Science Online](https://www.learncs.online/) — Java and Kotlin, interactive, includes exercises and discussion forum
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
 
 ### Python
 
@@ -65,6 +66,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [Problem solving skills](https://ryanstutorials.net/problem-solving-skills/)
 * [Debugging guide](https://uchicago-cs.github.io/debugging-guide/)
 * [stackoverflow: bug stories](https://stackoverflow.com/q/169713/4082052)
+* [How SQLite Is Tested](https://sqlite.org/testing.html)
 
 ### FAQ on stackexchange
 
@@ -82,6 +84,8 @@ Given links are sorted by votes, do explore other tabs as well.
 * [Projectbook](https://projectbook.code.brettchalupa.com/) — collection of over 100 software project ideas for people looking to learn a given language or technology
 * [Build your own X](https://github.com/codecrafters-io/build-your-own-x) — cli, database, neural network, OS, text editor, etc
 * [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) — build them multiple times and learn new things each time
+* [CSES Problem Set](https://cses.fi/problemset/) — collection of algorithm programming practice problems
+* [A catalog of coding challenges](https://fpsvogel.com/posts/2025/types-of-coding-challenges) — are they even worth doing anyway?
 * [Write a command-line utility](https://old.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/)
 
 ### Practice sites
