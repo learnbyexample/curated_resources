@@ -5,11 +5,11 @@
 
 ## Git
 
-* [Git In Two Minutes (For A Solo Developer)](https://garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html)
+* [Git In Two Minutes (For A Solo Developer)](https://garyrobinson.net/2014/10/21/git-in-two-minutes-for-a-solo-developer/)
 * [Pro Git book](https://git-scm.com/book/en/v2) — free to read online
 * [How Git Works](https://wizardzines.com/zines/git/)
 * [theodinproject: introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git) — this includes assignments on reading (like the 'Pro Git' book linked above), watching videos, etc
-* [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) — part of "The Missing Semester of Your CS Education" course by MIT
+* [Version Control (Git)](https://missing.csail.mit.edu/2026/version-control/) — part of "The Missing Semester of Your CS Education" course by MIT
 * [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) — what to do when things go wrong
 * [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) — best command line Git tools, techniques, tips, tricks, and tactical tidbits
 * [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git) — what some of the perhaps obscure Git config settings do
@@ -26,12 +26,12 @@
 * [Git Exercises](https://gitexercises.fracz.com/) — learn and practice Git
 * [Learn Git Branching](https://learngitbranching.js.org/) — git repository visualizer, sandbox, and a series of educational tutorials and challenges
 * [Visualizing Git Concepts](https://onlywei.github.io/explain-git-with-d3/) — sandbox playgrounds to help you understand some basic git concepts visually
-* [GitHub Minesweeper](https://profy.dev/project/github-minesweeper) — Learn a professional Git workflow with a bot as your teammate. For free
 
 ### Difficulties
 
 * [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
+* [A couple of git nits](https://blog.gitbutler.com/git-ux-rant)
 
 ## GitHub
 
