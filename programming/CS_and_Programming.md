@@ -14,7 +14,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 
 ### Python
 
-* [Python Programming](https://programming-25.mooc.fi/) — provided by University of Helsinki, introduction to Programming with Python, includes both text and video materials
+* [Python Programming](https://programming-26.mooc.fi/) — provided by University of Helsinki, introduction to Programming with Python, includes both text and video materials
 * [Think Python](https://allendowney.github.io/ThinkPython/) — gives you a solid foundation to programming, teaches debugging right the beginning, interesting exercises, etc
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) — project based interactive course
 * [The Python Coding Book](https://thepythoncodingbook.com/book-outline/) — friendly, relaxed programming book for beginners
@@ -162,6 +162,7 @@ Given links are sorted by votes, do explore other tabs as well.
 * [Compiler Explorer](https://godbolt.org/) — interactive compiler, code to asm for various programming languages and platforms
 * [Programming Languages: Application and Interpretation](https://www.plai.org/) — main ideas of programming languages
 * [Crypto 101](https://www.crypto101.io/) — introductory course on cryptography
+* [Virtual Memory: A Systems Programmer’s Guide to Address Translation and Memory Management](https://codingconfessions.gumroad.com/l/iuqsqm)
 
 ## Forums
 
