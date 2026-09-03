@@ -7,8 +7,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 ### Computer Science
 
 * [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/) — teaches you how to solve problems, both with and without code, with an emphasis on correctness, design, and style. Languages include C, Python, SQL, HTML, CSS, and JavaScript
-* [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python) — free course on edx, self paced
-    * [course details on MIT website](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
+* [MIT: Introduction To CS And Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 * [Learn Computer Science Online](https://www.learncs.online/) — Java and Kotlin, interactive, includes exercises and discussion forum
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) — master the command-line, use a powerful text editor, use fancy features of version control systems, and much more
 
@@ -44,7 +43,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 ### Stories
 
 * [How I learned to program](https://danluu.com/learning-to-program/) — by Dan Luu
-* [A noob programmer's opinion on how to learn to code](https://old.reddit.com/r/learnprogramming/comments/701n1l/a_noob_programmers_opinion_on_how_to_learn_to_code/)
+* [A noob programmer's opinion on how to learn to code](https://www.reddit.com/r/learnprogramming/comments/701n1l/a_noob_programmers_opinion_on_how_to_learn_to_code/)
 
 ## FAQ and Tips
 
@@ -52,7 +51,7 @@ Resources include both [Computer science](https://en.wikipedia.org/wiki/Computer
 * [Techniques for Efficiently Learning Programming Languages](https://www.flyingmachinestudios.com/programming/learn-programming-languages-efficiently/)
 * [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
 * [Things you might encounter in your programming journey](https://www.techinasia.com/talk/27-things-started-programming)
-* [If you want to learn you'll need to be willing to look stupid](https://old.reddit.com/r/learnprogramming/comments/5jm97p/if_you_want_to_learn_youll_need_to_be_willing_to/)
+* [If you want to learn you'll need to be willing to look stupid](https://www.reddit.com/r/learnprogramming/comments/5jm97p/if_you_want_to_learn_youll_need_to_be_willing_to/)
 * [What is 'foo', 'bar' and 'baz' I see in code examples?](https://stackoverflow.com/q/4868904/4082052)
 * [What is XY problem?](https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem)
 
@@ -86,7 +85,7 @@ Given links are sorted by votes, do explore other tabs as well.
 * [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) — build them multiple times and learn new things each time
 * [CSES Problem Set](https://cses.fi/problemset/) — collection of algorithm programming practice problems
 * [A catalog of coding challenges](https://fpsvogel.com/posts/2025/types-of-coding-challenges) — are they even worth doing anyway?
-* [Write a command-line utility](https://old.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/)
+* [Write a command-line utility](https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/)
 
 ### Practice sites
 
@@ -94,7 +93,7 @@ Given links are sorted by votes, do explore other tabs as well.
 * [Codewars](https://www.codewars.com/), [Adventofcode](https://adventofcode.com/), [Projecteuler](https://projecteuler.net/) — more challenging
 * [Checkio](https://checkio.org/), [Codingame](https://www.codingame.com/start) — gaming based challenges
 * [Interactive learning tools](https://markodenic.com/interactive-learning-tools/) — CSS, JavaScript, TypeScript, React, Python, Git, SQL, Regex and more
-* [/r/dailyprogrammer](https://old.reddit.com/r/dailyprogrammer) — interesting challenges
+* [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer) — interesting challenges
 * [List of Logic and Coding Games](https://github.com/dargaCode/LogicAndCodingGames)
 
 ## Resource lists
@@ -119,7 +118,7 @@ Given links are sorted by votes, do explore other tabs as well.
 * [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
 * [Programming book list by Dan Luu](https://danluu.com/programming-books/)
 * [What Books Should Everyone Read?](https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read)
-* [Books every software engineer should read](https://old.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to/)
+* [Books every software engineer should read](https://www.reddit.com/r/cscareerquestions/comments/6w4dej/what_books_should_every_software_engineer_read_to/)
 * [Programming Language Theory books and resources](https://github.com/steshaw/plt)
 * [Free programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-langs.html)
 
@@ -168,9 +167,9 @@ Given links are sorted by votes, do explore other tabs as well.
 
 Read instructions provided by respective forums before asking a question. Try solving it yourself before asking — searching online, reading manuals, ask a colleague, etc. See also [how to ask good questions](https://jvns.ca/blog/good-questions/).
 
-* [/r/programming/](https://old.reddit.com/r/programming/) — for discussion and news about computer programming
+* [/r/programming/](https://www.reddit.com/r/programming/) — for discussion and news about computer programming
 * [stackoverflow](https://stackoverflow.com/) and [stackexchange](https://stackexchange.com/sites) — for Q&As
-* [/r/learnprogramming/](https://old.reddit.com/r/learnprogramming/) — for Q&As and discussion, beginner friendly
+* [/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/) — for Q&As and discussion, beginner friendly
 * [lobste.rs](https://lobste.rs/) — computing-focused community centered around link aggregation and discussion
-* [/r/webdev/](https://old.reddit.com/r/webdev/)
-* [/r/cscareerquestions/](https://old.reddit.com/r/cscareerquestions/) — discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields
+* [/r/webdev/](https://www.reddit.com/r/webdev/)
+* [/r/cscareerquestions/](https://www.reddit.com/r/cscareerquestions/) — discuss careers in Computer Science, Computer Engineering, Software Engineering, and related fields
